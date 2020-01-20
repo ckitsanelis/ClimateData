@@ -1,0 +1,2321 @@
+,Entity,Code,Year,Annual_biofuel_consumption
+0,North America,,2000,118.7162
+1,North America,,2001,140.7847
+2,North America,,2002,190.13275
+3,North America,,2003,237.7285
+4,North America,,2004,276.67476
+5,North America,,2005,379.94628
+6,North America,,2006,494.2271
+7,North America,,2007,676.27757
+8,North America,,2008,768.49596
+9,North America,,2009,888.303
+10,Bermuda,BMU,2000,0
+11,Bermuda,BMU,2001,0
+12,Bermuda,BMU,2002,0
+13,Bermuda,BMU,2003,0
+14,Bermuda,BMU,2004,0
+15,Bermuda,BMU,2005,0
+16,Bermuda,BMU,2006,0
+17,Bermuda,BMU,2007,0
+18,Bermuda,BMU,2008,0
+19,Bermuda,BMU,2009,0
+20,Canada,CAN,2000,4.5
+21,Canada,CAN,2001,4.5
+22,Canada,CAN,2002,4.9
+23,Canada,CAN,2003,4.9
+24,Canada,CAN,2004,6
+25,Canada,CAN,2005,5.4
+26,Canada,CAN,2006,21.6
+27,Canada,CAN,2007,25.7
+28,Canada,CAN,2008,27.81
+29,Canada,CAN,2009,34.2
+30,Greenland,GRL,2000,0
+31,Greenland,GRL,2001,0
+32,Greenland,GRL,2002,0
+33,Greenland,GRL,2003,0
+34,Greenland,GRL,2004,0
+35,Greenland,GRL,2005,0
+36,Greenland,GRL,2006,0
+37,Greenland,GRL,2007,0
+38,Greenland,GRL,2008,0
+39,Greenland,GRL,2009,0
+40,Mexico,MEX,2000,0
+41,Mexico,MEX,2001,0
+42,Mexico,MEX,2002,0
+43,Mexico,MEX,2003,0
+44,Mexico,MEX,2004,0
+45,Mexico,MEX,2005,0
+46,Mexico,MEX,2006,0.1
+47,Mexico,MEX,2007,0.1
+48,Mexico,MEX,2008,0.103
+49,Mexico,MEX,2009,0.4
+50,Saint Pierre and Miquelon,SPM,2000,0
+51,Saint Pierre and Miquelon,SPM,2001,0
+52,Saint Pierre and Miquelon,SPM,2002,0
+53,Saint Pierre and Miquelon,SPM,2003,0
+54,Saint Pierre and Miquelon,SPM,2004,0
+55,Saint Pierre and Miquelon,SPM,2005,0
+56,Saint Pierre and Miquelon,SPM,2006,0
+57,Saint Pierre and Miquelon,SPM,2007,0
+58,Saint Pierre and Miquelon,SPM,2008,0
+59,Saint Pierre and Miquelon,SPM,2009,0
+60,United States,USA,2000,114.2162
+61,United States,USA,2001,136.2847
+62,United States,USA,2002,185.23275
+63,United States,USA,2003,232.8285
+64,United States,USA,2004,270.67476
+65,United States,USA,2005,374.54628
+66,United States,USA,2006,472.5271
+67,United States,USA,2007,650.47757
+68,United States,USA,2008,740.58296
+69,United States,USA,2009,853.703
+70,Central & South America,,2000,142.59798
+71,Central & South America,,2001,161.38807
+72,Central & South America,,2002,145.33577
+73,Central & South America,,2003,178.31824
+74,Central & South America,,2004,184.3888
+75,Central & South America,,2005,201.67622
+76,Central & South America,,2006,275.60815
+77,Central & South America,,2007,364.37384
+78,Central & South America,,2008,438.07631
+79,Central & South America,,2009,455.46686
+80,Antarctica,,2000,0
+81,Antarctica,,2001,0
+82,Antarctica,,2002,0
+83,Antarctica,,2003,0
+84,Antarctica,,2004,0
+85,Antarctica,,2005,0
+86,Antarctica,,2006,0
+87,Antarctica,,2007,0
+88,Antarctica,,2008,0
+89,Antarctica,,2009,0
+90,Antigua and Barbuda,ATG,2000,0
+91,Antigua and Barbuda,ATG,2001,0
+92,Antigua and Barbuda,ATG,2002,0
+93,Antigua and Barbuda,ATG,2003,0
+94,Antigua and Barbuda,ATG,2004,0
+95,Antigua and Barbuda,ATG,2005,0
+96,Antigua and Barbuda,ATG,2006,0
+97,Antigua and Barbuda,ATG,2007,0
+98,Antigua and Barbuda,ATG,2008,0
+99,Antigua and Barbuda,ATG,2009,0
+100,Argentina,ARG,2000,0.2
+101,Argentina,ARG,2001,0.2
+102,Argentina,ARG,2002,0.2
+103,Argentina,ARG,2003,0.2
+104,Argentina,ARG,2004,0.3
+105,Argentina,ARG,2005,0.3
+106,Argentina,ARG,2006,0.3
+107,Argentina,ARG,2007,0.3
+108,Argentina,ARG,2008,0.55
+109,Argentina,ARG,2009,11.9
+110,Aruba,ABW,2000,0
+111,Aruba,ABW,2001,0
+112,Aruba,ABW,2002,0
+113,Aruba,ABW,2003,0
+114,Aruba,ABW,2004,0
+115,Aruba,ABW,2005,0
+116,Aruba,ABW,2006,0
+117,Aruba,ABW,2007,0
+118,Aruba,ABW,2008,0
+119,Aruba,ABW,2009,0
+120,Bahamas,BHS,2000,0
+121,Bahamas,BHS,2001,0
+122,Bahamas,BHS,2002,0
+123,Bahamas,BHS,2003,0
+124,Bahamas,BHS,2004,0
+125,Bahamas,BHS,2005,0
+126,Bahamas,BHS,2006,0
+127,Bahamas,BHS,2007,0
+128,Bahamas,BHS,2008,0
+129,Bahamas,BHS,2009,0
+130,Barbados,BRB,2000,0
+131,Barbados,BRB,2001,0
+132,Barbados,BRB,2002,0
+133,Barbados,BRB,2003,0
+134,Barbados,BRB,2004,0
+135,Barbados,BRB,2005,0.0003
+136,Barbados,BRB,2006,0.0003
+137,Barbados,BRB,2007,0.001
+138,Barbados,BRB,2008,0.001
+139,Barbados,BRB,2009,0.001
+140,Belize,BLZ,2000,0
+141,Belize,BLZ,2001,0
+142,Belize,BLZ,2002,0
+143,Belize,BLZ,2003,0
+144,Belize,BLZ,2004,0
+145,Belize,BLZ,2005,0
+146,Belize,BLZ,2006,0
+147,Belize,BLZ,2007,0
+148,Belize,BLZ,2008,0
+149,Belize,BLZ,2009,0
+150,Bolivia,BOL,2000,0
+151,Bolivia,BOL,2001,0
+152,Bolivia,BOL,2002,0
+153,Bolivia,BOL,2003,0
+154,Bolivia,BOL,2004,0
+155,Bolivia,BOL,2005,0
+156,Bolivia,BOL,2006,0
+157,Bolivia,BOL,2007,0
+158,Bolivia,BOL,2008,0
+159,Bolivia,BOL,2009,0
+160,Brazil,BRA,2000,141.37798
+161,Brazil,BRA,2001,160.16807
+162,Brazil,BRA,2002,144.01577
+163,Brazil,BRA,2003,177.11824
+164,Brazil,BRA,2004,181.9578
+165,Brazil,BRA,2005,195.22592
+166,Brazil,BRA,2006,268.47785
+167,Brazil,BRA,2007,355.65284
+168,Brazil,BRA,2008,420.26531
+169,Brazil,BRA,2009,424.33586
+170,Cayman Islands,CYM,2000,0
+171,Cayman Islands,CYM,2001,0
+172,Cayman Islands,CYM,2002,0
+173,Cayman Islands,CYM,2003,0
+174,Cayman Islands,CYM,2004,0
+175,Cayman Islands,CYM,2005,0
+176,Cayman Islands,CYM,2006,0
+177,Cayman Islands,CYM,2007,0
+178,Cayman Islands,CYM,2008,0
+179,Cayman Islands,CYM,2009,0
+180,Chile,CHL,2000,0
+181,Chile,CHL,2001,0
+182,Chile,CHL,2002,0
+183,Chile,CHL,2003,0
+184,Chile,CHL,2004,0
+185,Chile,CHL,2005,0
+186,Chile,CHL,2006,0
+187,Chile,CHL,2007,0
+188,Chile,CHL,2008,0
+189,Chile,CHL,2009,0
+190,Colombia,COL,2000,0
+191,Colombia,COL,2001,0
+192,Colombia,COL,2002,0
+193,Colombia,COL,2003,0
+194,Colombia,COL,2004,0.5
+195,Colombia,COL,2005,4.6
+196,Colombia,COL,2006,4.8
+197,Colombia,COL,2007,5.8
+198,Colombia,COL,2008,11.3
+199,Colombia,COL,2009,12
+200,Costa Rica,CRI,2000,0
+201,Costa Rica,CRI,2001,0
+202,Costa Rica,CRI,2002,0
+203,Costa Rica,CRI,2003,0
+204,Costa Rica,CRI,2004,0
+205,Costa Rica,CRI,2005,0
+206,Costa Rica,CRI,2006,0.05
+207,Costa Rica,CRI,2007,0.05
+208,Costa Rica,CRI,2008,0.5
+209,Costa Rica,CRI,2009,0.5
+210,Cuba,CUB,2000,1
+211,Cuba,CUB,2001,1
+212,Cuba,CUB,2002,1.1
+213,Cuba,CUB,2003,1
+214,Cuba,CUB,2004,1
+215,Cuba,CUB,2005,0.7
+216,Cuba,CUB,2006,0.4
+217,Cuba,CUB,2007,0.3
+218,Cuba,CUB,2008,0.3
+219,Cuba,CUB,2009,0.3
+220,Dominica,DMA,2000,0
+221,Dominica,DMA,2001,0
+222,Dominica,DMA,2002,0
+223,Dominica,DMA,2003,0
+224,Dominica,DMA,2004,0
+225,Dominica,DMA,2005,0
+226,Dominica,DMA,2006,0
+227,Dominica,DMA,2007,0
+228,Dominica,DMA,2008,0
+229,Dominica,DMA,2009,0
+230,Dominican Republic,DOM,2000,0
+231,Dominican Republic,DOM,2001,0
+232,Dominican Republic,DOM,2002,0
+233,Dominican Republic,DOM,2003,0
+234,Dominican Republic,DOM,2004,0
+235,Dominican Republic,DOM,2005,0
+236,Dominican Republic,DOM,2006,0
+237,Dominican Republic,DOM,2007,0
+238,Dominican Republic,DOM,2008,0
+239,Dominican Republic,DOM,2009,0
+240,Ecuador,ECU,2000,0
+241,Ecuador,ECU,2001,0
+242,Ecuador,ECU,2002,0
+243,Ecuador,ECU,2003,0
+244,Ecuador,ECU,2004,0
+245,Ecuador,ECU,2005,0
+246,Ecuador,ECU,2006,0
+247,Ecuador,ECU,2007,0
+248,Ecuador,ECU,2008,0
+249,Ecuador,ECU,2009,0.2
+250,El Salvador,SLV,2000,0
+251,El Salvador,SLV,2001,0
+252,El Salvador,SLV,2002,0
+253,El Salvador,SLV,2003,0
+254,El Salvador,SLV,2004,0
+255,El Salvador,SLV,2005,0
+256,El Salvador,SLV,2006,0
+257,El Salvador,SLV,2007,0
+258,El Salvador,SLV,2008,0
+259,El Salvador,SLV,2009,0
+260,Falkland Islands (Islas Malvinas),,2000,0
+261,Falkland Islands (Islas Malvinas),,2001,0
+262,Falkland Islands (Islas Malvinas),,2002,0
+263,Falkland Islands (Islas Malvinas),,2003,0
+264,Falkland Islands (Islas Malvinas),,2004,0
+265,Falkland Islands (Islas Malvinas),,2005,0
+266,Falkland Islands (Islas Malvinas),,2006,0
+267,Falkland Islands (Islas Malvinas),,2007,0
+268,Falkland Islands (Islas Malvinas),,2008,0
+269,Falkland Islands (Islas Malvinas),,2009,0
+270,French Guiana,GUF,2000,0
+271,French Guiana,GUF,2001,0
+272,French Guiana,GUF,2002,0
+273,French Guiana,GUF,2003,0
+274,French Guiana,GUF,2004,0
+275,French Guiana,GUF,2005,0
+276,French Guiana,GUF,2006,0
+277,French Guiana,GUF,2007,0
+278,French Guiana,GUF,2008,0
+279,French Guiana,GUF,2009,0
+280,Grenada,GRD,2000,0
+281,Grenada,GRD,2001,0
+282,Grenada,GRD,2002,0
+283,Grenada,GRD,2003,0
+284,Grenada,GRD,2004,0
+285,Grenada,GRD,2005,0
+286,Grenada,GRD,2006,0
+287,Grenada,GRD,2007,0
+288,Grenada,GRD,2008,0
+289,Grenada,GRD,2009,0
+290,Guadeloupe,GLP,2000,0
+291,Guadeloupe,GLP,2001,0
+292,Guadeloupe,GLP,2002,0
+293,Guadeloupe,GLP,2003,0
+294,Guadeloupe,GLP,2004,0
+295,Guadeloupe,GLP,2005,0
+296,Guadeloupe,GLP,2006,0
+297,Guadeloupe,GLP,2007,0
+298,Guadeloupe,GLP,2008,0
+299,Guadeloupe,GLP,2009,0
+300,Guatemala,GTM,2000,0
+301,Guatemala,GTM,2001,0
+302,Guatemala,GTM,2002,0
+303,Guatemala,GTM,2003,0
+304,Guatemala,GTM,2004,0
+305,Guatemala,GTM,2005,0
+306,Guatemala,GTM,2006,0
+307,Guatemala,GTM,2007,0
+308,Guatemala,GTM,2008,0.01
+309,Guatemala,GTM,2009,0.01
+310,Guyana,GUY,2000,0
+311,Guyana,GUY,2001,0
+312,Guyana,GUY,2002,0
+313,Guyana,GUY,2003,0
+314,Guyana,GUY,2004,0
+315,Guyana,GUY,2005,0
+316,Guyana,GUY,2006,0
+317,Guyana,GUY,2007,0
+318,Guyana,GUY,2008,0
+319,Guyana,GUY,2009,0
+320,Haiti,HTI,2000,0
+321,Haiti,HTI,2001,0
+322,Haiti,HTI,2002,0
+323,Haiti,HTI,2003,0
+324,Haiti,HTI,2004,0
+325,Haiti,HTI,2005,0
+326,Haiti,HTI,2006,0
+327,Haiti,HTI,2007,0
+328,Haiti,HTI,2008,0
+329,Haiti,HTI,2009,0
+330,Honduras,HND,2000,0
+331,Honduras,HND,2001,0
+332,Honduras,HND,2002,0
+333,Honduras,HND,2003,0
+334,Honduras,HND,2004,0.001
+335,Honduras,HND,2005,0.01
+336,Honduras,HND,2006,0.02
+337,Honduras,HND,2007,0.02
+338,Honduras,HND,2008,0.01
+339,Honduras,HND,2009,0.02
+340,Jamaica,JAM,2000,0
+341,Jamaica,JAM,2001,0
+342,Jamaica,JAM,2002,0
+343,Jamaica,JAM,2003,0
+344,Jamaica,JAM,2004,0
+345,Jamaica,JAM,2005,0
+346,Jamaica,JAM,2006,0
+347,Jamaica,JAM,2007,0.1
+348,Jamaica,JAM,2008,1
+349,Jamaica,JAM,2009,1
+350,Martinique,MTQ,2000,0
+351,Martinique,MTQ,2001,0
+352,Martinique,MTQ,2002,0
+353,Martinique,MTQ,2003,0
+354,Martinique,MTQ,2004,0
+355,Martinique,MTQ,2005,0
+356,Martinique,MTQ,2006,0
+357,Martinique,MTQ,2007,0
+358,Martinique,MTQ,2008,0
+359,Martinique,MTQ,2009,0
+360,Montserrat,MSR,2000,0
+361,Montserrat,MSR,2001,0
+362,Montserrat,MSR,2002,0
+363,Montserrat,MSR,2003,0
+364,Montserrat,MSR,2004,0
+365,Montserrat,MSR,2005,0
+366,Montserrat,MSR,2006,0
+367,Montserrat,MSR,2007,0
+368,Montserrat,MSR,2008,0
+369,Montserrat,MSR,2009,0
+370,Netherlands Antilles,,2000,0
+371,Netherlands Antilles,,2001,0
+372,Netherlands Antilles,,2002,0
+373,Netherlands Antilles,,2003,0
+374,Netherlands Antilles,,2004,0
+375,Netherlands Antilles,,2005,0
+376,Netherlands Antilles,,2006,0
+377,Netherlands Antilles,,2007,0
+378,Netherlands Antilles,,2008,0
+379,Netherlands Antilles,,2009,0
+380,Nicaragua,NIC,2000,0
+381,Nicaragua,NIC,2001,0
+382,Nicaragua,NIC,2002,0
+383,Nicaragua,NIC,2003,0
+384,Nicaragua,NIC,2004,0
+385,Nicaragua,NIC,2005,0
+386,Nicaragua,NIC,2006,0
+387,Nicaragua,NIC,2007,0
+388,Nicaragua,NIC,2008,0
+389,Nicaragua,NIC,2009,0
+390,Panama,PAN,2000,0
+391,Panama,PAN,2001,0
+392,Panama,PAN,2002,0
+393,Panama,PAN,2003,0
+394,Panama,PAN,2004,0
+395,Panama,PAN,2005,0
+396,Panama,PAN,2006,0
+397,Panama,PAN,2007,0
+398,Panama,PAN,2008,0
+399,Panama,PAN,2009,0
+400,Paraguay,PRY,2000,0.02
+401,Paraguay,PRY,2001,0.02
+402,Paraguay,PRY,2002,0.02
+403,Paraguay,PRY,2003,0
+404,Paraguay,PRY,2004,0.6
+405,Paraguay,PRY,2005,0.8
+406,Paraguay,PRY,2006,1.1
+407,Paraguay,PRY,2007,1.6
+408,Paraguay,PRY,2008,2
+409,Paraguay,PRY,2009,2.4
+410,Peru,PER,2000,0
+411,Peru,PER,2001,0
+412,Peru,PER,2002,0
+413,Peru,PER,2003,0
+414,Peru,PER,2004,0
+415,Peru,PER,2005,0
+416,Peru,PER,2006,0.4
+417,Peru,PER,2007,0.5
+418,Peru,PER,2008,2
+419,Peru,PER,2009,2.5
+420,Puerto Rico,,2000,0
+421,Puerto Rico,,2001,0
+422,Puerto Rico,,2002,0
+423,Puerto Rico,,2003,0
+424,Puerto Rico,,2004,0
+425,Puerto Rico,,2005,0
+426,Puerto Rico,,2006,0
+427,Puerto Rico,,2007,0
+428,Puerto Rico,,2008,0
+429,Puerto Rico,,2009,0
+430,Saint Kitts and Nevis,KNA,2000,0
+431,Saint Kitts and Nevis,KNA,2001,0
+432,Saint Kitts and Nevis,KNA,2002,0
+433,Saint Kitts and Nevis,KNA,2003,0
+434,Saint Kitts and Nevis,KNA,2004,0
+435,Saint Kitts and Nevis,KNA,2005,0
+436,Saint Kitts and Nevis,KNA,2006,0
+437,Saint Kitts and Nevis,KNA,2007,0
+438,Saint Kitts and Nevis,KNA,2008,0
+439,Saint Kitts and Nevis,KNA,2009,0
+440,Saint Lucia,LCA,2000,0
+441,Saint Lucia,LCA,2001,0
+442,Saint Lucia,LCA,2002,0
+443,Saint Lucia,LCA,2003,0
+444,Saint Lucia,LCA,2004,0
+445,Saint Lucia,LCA,2005,0
+446,Saint Lucia,LCA,2006,0
+447,Saint Lucia,LCA,2007,0
+448,Saint Lucia,LCA,2008,0
+449,Saint Lucia,LCA,2009,0
+450,Saint Vincent/Grenadines,,2000,0
+451,Saint Vincent/Grenadines,,2001,0
+452,Saint Vincent/Grenadines,,2002,0
+453,Saint Vincent/Grenadines,,2003,0
+454,Saint Vincent/Grenadines,,2004,0
+455,Saint Vincent/Grenadines,,2005,0
+456,Saint Vincent/Grenadines,,2006,0
+457,Saint Vincent/Grenadines,,2007,0
+458,Saint Vincent/Grenadines,,2008,0
+459,Saint Vincent/Grenadines,,2009,0
+460,Suriname,SUR,2000,0
+461,Suriname,SUR,2001,0
+462,Suriname,SUR,2002,0
+463,Suriname,SUR,2003,0
+464,Suriname,SUR,2004,0
+465,Suriname,SUR,2005,0
+466,Suriname,SUR,2006,0
+467,Suriname,SUR,2007,0
+468,Suriname,SUR,2008,0
+469,Suriname,SUR,2009,0
+470,Trinidad and Tobago,TTO,2000,0
+471,Trinidad and Tobago,TTO,2001,0
+472,Trinidad and Tobago,TTO,2002,0
+473,Trinidad and Tobago,TTO,2003,0
+474,Trinidad and Tobago,TTO,2004,0
+475,Trinidad and Tobago,TTO,2005,0
+476,Trinidad and Tobago,TTO,2006,0
+477,Trinidad and Tobago,TTO,2007,0
+478,Trinidad and Tobago,TTO,2008,0
+479,Trinidad and Tobago,TTO,2009,0
+480,Turks and Caicos Islands,TCA,2000,0
+481,Turks and Caicos Islands,TCA,2001,0
+482,Turks and Caicos Islands,TCA,2002,0
+483,Turks and Caicos Islands,TCA,2003,0
+484,Turks and Caicos Islands,TCA,2004,0
+485,Turks and Caicos Islands,TCA,2005,0
+486,Turks and Caicos Islands,TCA,2006,0
+487,Turks and Caicos Islands,TCA,2007,0
+488,Turks and Caicos Islands,TCA,2008,0
+489,Turks and Caicos Islands,TCA,2009,0
+490,Uruguay,URY,2000,0
+491,Uruguay,URY,2001,0
+492,Uruguay,URY,2002,0
+493,Uruguay,URY,2003,0
+494,Uruguay,URY,2004,0.03
+495,Uruguay,URY,2005,0.04
+496,Uruguay,URY,2006,0.06
+497,Uruguay,URY,2007,0.05
+498,Uruguay,URY,2008,0.14
+499,Uruguay,URY,2009,0.3
+500,Venezuela,VEN,2000,0
+501,Venezuela,VEN,2001,0
+502,Venezuela,VEN,2002,0
+503,Venezuela,VEN,2003,0
+504,Venezuela,VEN,2004,0
+505,Venezuela,VEN,2005,0
+506,Venezuela,VEN,2006,0
+507,Venezuela,VEN,2007,0
+508,Venezuela,VEN,2008,0
+509,Venezuela,VEN,2009,0
+510,Virgin Islands,,2000,0
+511,Virgin Islands,,2001,0
+512,Virgin Islands,,2002,0
+513,Virgin Islands,,2003,0
+514,Virgin Islands,,2004,0
+515,Virgin Islands,,2005,0
+516,Virgin Islands,,2006,0
+517,Virgin Islands,,2007,0
+518,Virgin Islands,,2008,0
+519,Virgin Islands,,2009,0
+520,Virgin Islands,,2000,0
+521,Virgin Islands,,2001,0
+522,Virgin Islands,,2002,0
+523,Virgin Islands,,2003,0
+524,Virgin Islands,,2004,0
+525,Virgin Islands,,2005,0
+526,Virgin Islands,,2006,0
+527,Virgin Islands,,2007,0
+528,Virgin Islands,,2008,0
+529,Virgin Islands,,2009,0
+530,Europe,,2000,18.72
+531,Europe,,2001,25.76
+532,Europe,,2002,33.96
+533,Europe,,2003,48.17
+534,Europe,,2004,72.5093
+535,Europe,,2005,123.021
+536,Europe,,2006,173.386
+537,Europe,,2007,238.18
+538,Europe,,2008,292.545
+539,Europe,,2009,329.635
+540,Albania,ALB,2000,0
+541,Albania,ALB,2001,0
+542,Albania,ALB,2002,0
+543,Albania,ALB,2003,0
+544,Albania,ALB,2004,0
+545,Albania,ALB,2005,0
+546,Albania,ALB,2006,0
+547,Albania,ALB,2007,0
+548,Albania,ALB,2008,0
+549,Albania,ALB,2009,0
+550,Austria,AUT,2000,0.4
+551,Austria,AUT,2001,0.5
+552,Austria,AUT,2002,0.6
+553,Austria,AUT,2003,1.1
+554,Austria,AUT,2004,1.7
+555,Austria,AUT,2005,6.4
+556,Austria,AUT,2006,7.7
+557,Austria,AUT,2007,9.7
+558,Austria,AUT,2008,12.4
+559,Austria,AUT,2009,12.5
+560,Belgium,BEL,2000,0
+561,Belgium,BEL,2001,0
+562,Belgium,BEL,2002,0
+563,Belgium,BEL,2003,0
+564,Belgium,BEL,2004,0
+565,Belgium,BEL,2005,0.02
+566,Belgium,BEL,2006,2
+567,Belgium,BEL,2007,2.3
+568,Belgium,BEL,2008,7.4
+569,Belgium,BEL,2009,8.2
+570,Bosnia and Herzegovina,BIH,2000,0
+571,Bosnia and Herzegovina,BIH,2001,0
+572,Bosnia and Herzegovina,BIH,2002,0
+573,Bosnia and Herzegovina,BIH,2003,0
+574,Bosnia and Herzegovina,BIH,2004,0
+575,Bosnia and Herzegovina,BIH,2005,0
+576,Bosnia and Herzegovina,BIH,2006,0
+577,Bosnia and Herzegovina,BIH,2007,0
+578,Bosnia and Herzegovina,BIH,2008,0
+579,Bosnia and Herzegovina,BIH,2009,0
+580,Bulgaria,BGR,2000,0
+581,Bulgaria,BGR,2001,0
+582,Bulgaria,BGR,2002,0
+583,Bulgaria,BGR,2003,0
+584,Bulgaria,BGR,2004,0
+585,Bulgaria,BGR,2005,0.1
+586,Bulgaria,BGR,2006,0.04
+587,Bulgaria,BGR,2007,0.08
+588,Bulgaria,BGR,2008,0.1
+589,Bulgaria,BGR,2009,0.8
+590,Croatia,HRV,2000,0
+591,Croatia,HRV,2001,0
+592,Croatia,HRV,2002,0
+593,Croatia,HRV,2003,0
+594,Croatia,HRV,2004,0
+595,Croatia,HRV,2005,0
+596,Croatia,HRV,2006,0.06
+597,Croatia,HRV,2007,0.04
+598,Croatia,HRV,2008,0.06
+599,Croatia,HRV,2009,0.1
+600,Cyprus,CYP,2000,0
+601,Cyprus,CYP,2001,0
+602,Cyprus,CYP,2002,0
+603,Cyprus,CYP,2003,0
+604,Cyprus,CYP,2004,0
+605,Cyprus,CYP,2005,0
+606,Cyprus,CYP,2006,0.02
+607,Cyprus,CYP,2007,0.31
+608,Cyprus,CYP,2008,0.33
+609,Cyprus,CYP,2009,0.33
+610,Czech Republic,CZE,2000,1
+611,Czech Republic,CZE,2001,1.4
+612,Czech Republic,CZE,2002,1.4
+613,Czech Republic,CZE,2003,0.7
+614,Czech Republic,CZE,2004,0.1
+615,Czech Republic,CZE,2005,0.44
+616,Czech Republic,CZE,2006,0.704
+617,Czech Republic,CZE,2007,2.8
+618,Czech Republic,CZE,2008,4.9
+619,Czech Republic,CZE,2009,5.8
+620,Denmark,DNK,2000,0
+621,Denmark,DNK,2001,0
+622,Denmark,DNK,2002,0
+623,Denmark,DNK,2003,0
+624,Denmark,DNK,2004,0
+625,Denmark,DNK,2005,0.1
+626,Denmark,DNK,2006,0.2
+627,Denmark,DNK,2007,0.205
+628,Denmark,DNK,2008,0.3
+629,Denmark,DNK,2009,1.1
+630,Faroe Islands,,2000,0
+631,Faroe Islands,,2001,0
+632,Faroe Islands,,2002,0
+633,Faroe Islands,,2003,0
+634,Faroe Islands,,2004,0
+635,Faroe Islands,,2005,0
+636,Faroe Islands,,2006,0
+637,Faroe Islands,,2007,0
+638,Faroe Islands,,2008,0
+639,Faroe Islands,,2009,0
+640,Finland,FIN,2000,0
+641,Finland,FIN,2001,0.02
+642,Finland,FIN,2002,0.1
+643,Finland,FIN,2003,0.1
+644,Finland,FIN,2004,0
+645,Finland,FIN,2005,0.02
+646,Finland,FIN,2006,0.103
+647,Finland,FIN,2007,2.4
+648,Finland,FIN,2008,3.9
+649,Finland,FIN,2009,4.5
+650,Former Czechoslovakia,,2000,--
+651,Former Czechoslovakia,,2001,--
+652,Former Czechoslovakia,,2002,--
+653,Former Czechoslovakia,,2003,--
+654,Former Czechoslovakia,,2004,--
+655,Former Czechoslovakia,,2005,--
+656,Former Czechoslovakia,,2006,--
+657,Former Czechoslovakia,,2007,--
+658,Former Czechoslovakia,,2008,--
+659,Former Czechoslovakia,,2009,--
+660,Former Serbia and Montenegro,,2000,0
+661,Former Serbia and Montenegro,,2001,0
+662,Former Serbia and Montenegro,,2002,0
+663,Former Serbia and Montenegro,,2003,0
+664,Former Serbia and Montenegro,,2004,0
+665,Former Serbia and Montenegro,,2005,--
+666,Former Serbia and Montenegro,,2006,--
+667,Former Serbia and Montenegro,,2007,--
+668,Former Serbia and Montenegro,,2008,--
+669,Former Serbia and Montenegro,,2009,--
+670,Former Yugoslavia,,2000,--
+671,Former Yugoslavia,,2001,--
+672,Former Yugoslavia,,2002,--
+673,Former Yugoslavia,,2003,--
+674,Former Yugoslavia,,2004,--
+675,Former Yugoslavia,,2005,--
+676,Former Yugoslavia,,2006,--
+677,Former Yugoslavia,,2007,--
+678,Former Yugoslavia,,2008,--
+679,Former Yugoslavia,,2009,--
+680,France,FRA,2000,7.86
+681,France,FRA,2001,8.32
+682,France,FRA,2002,7.57
+683,France,FRA,2003,8.18
+684,France,FRA,2004,9.52
+685,France,FRA,2005,18.4
+686,France,FRA,2006,34.3
+687,France,FRA,2007,54.6
+688,France,FRA,2008,59
+689,France,FRA,2009,55
+690,Germany,DEU,2000,6.8
+691,Germany,DEU,2001,10.8
+692,Germany,DEU,2002,15.7
+693,Germany,DEU,2003,21.9
+694,Germany,DEU,2004,40.7
+695,Germany,DEU,2005,67
+696,Germany,DEU,2006,74
+697,Germany,DEU,2007,66
+698,Germany,DEU,2008,68
+699,Germany,DEU,2009,75.5
+700,Germany,DEU,2000,--
+701,Germany,DEU,2001,--
+702,Germany,DEU,2002,--
+703,Germany,DEU,2003,--
+704,Germany,DEU,2004,--
+705,Germany,DEU,2005,--
+706,Germany,DEU,2006,--
+707,Germany,DEU,2007,--
+708,Germany,DEU,2008,--
+709,Germany,DEU,2009,--
+710,Germany,DEU,2000,--
+711,Germany,DEU,2001,--
+712,Germany,DEU,2002,--
+713,Germany,DEU,2003,--
+714,Germany,DEU,2004,--
+715,Germany,DEU,2005,--
+716,Germany,DEU,2006,--
+717,Germany,DEU,2007,--
+718,Germany,DEU,2008,--
+719,Germany,DEU,2009,--
+720,Gibraltar,GIB,2000,0
+721,Gibraltar,GIB,2001,0
+722,Gibraltar,GIB,2002,0
+723,Gibraltar,GIB,2003,0
+724,Gibraltar,GIB,2004,0
+725,Gibraltar,GIB,2005,0
+726,Gibraltar,GIB,2006,0
+727,Gibraltar,GIB,2007,0
+728,Gibraltar,GIB,2008,0
+729,Gibraltar,GIB,2009,0
+730,Greece,GRC,2000,0
+731,Greece,GRC,2001,0
+732,Greece,GRC,2002,0
+733,Greece,GRC,2003,0
+734,Greece,GRC,2004,0.06
+735,Greece,GRC,2005,1
+736,Greece,GRC,2006,1.9
+737,Greece,GRC,2007,1.5
+738,Greece,GRC,2008,1.7
+739,Greece,GRC,2009,2.8
+740,Hungary,HUN,2000,0
+741,Hungary,HUN,2001,0
+742,Hungary,HUN,2002,0
+743,Hungary,HUN,2003,0
+744,Hungary,HUN,2004,0.1
+745,Hungary,HUN,2005,0.407
+746,Hungary,HUN,2006,0.94
+747,Hungary,HUN,2007,4.2
+748,Hungary,HUN,2008,4.3
+749,Hungary,HUN,2009,4.1
+750,Iceland,ISL,2000,0
+751,Iceland,ISL,2001,0
+752,Iceland,ISL,2002,0
+753,Iceland,ISL,2003,0
+754,Iceland,ISL,2004,0
+755,Iceland,ISL,2005,0
+756,Iceland,ISL,2006,0
+757,Iceland,ISL,2007,0.005
+758,Iceland,ISL,2008,0.005
+759,Iceland,ISL,2009,0.005
+760,Ireland,IRL,2000,0
+761,Ireland,IRL,2001,0
+762,Ireland,IRL,2002,0
+763,Ireland,IRL,2003,0
+764,Ireland,IRL,2004,0.0203
+765,Ireland,IRL,2005,0.06
+766,Ireland,IRL,2006,0.6
+767,Ireland,IRL,2007,1.4
+768,Ireland,IRL,2008,2
+769,Ireland,IRL,2009,2
+770,Italy,ITA,2000,0
+771,Italy,ITA,2001,0
+772,Italy,ITA,2002,0
+773,Italy,ITA,2003,5.6
+774,Italy,ITA,2004,4.1
+775,Italy,ITA,2005,4.6
+776,Italy,ITA,2006,4.2
+777,Italy,ITA,2007,16
+778,Italy,ITA,2008,27.3
+779,Italy,ITA,2009,34.7
+780,Luxembourg,LUX,2000,0
+781,Luxembourg,LUX,2001,0
+782,Luxembourg,LUX,2002,0
+783,Luxembourg,LUX,2003,0
+784,Luxembourg,LUX,2004,0.01
+785,Luxembourg,LUX,2005,0.01
+786,Luxembourg,LUX,2006,0.73
+787,Luxembourg,LUX,2007,0.83
+788,Luxembourg,LUX,2008,0.92
+789,Luxembourg,LUX,2009,0.92
+790,Macedonia,MKD,2000,0
+791,Macedonia,MKD,2001,0
+792,Macedonia,MKD,2002,0
+793,Macedonia,MKD,2003,0
+794,Macedonia,MKD,2004,0
+795,Macedonia,MKD,2005,0
+796,Macedonia,MKD,2006,0
+797,Macedonia,MKD,2007,0.01
+798,Macedonia,MKD,2008,0.01
+799,Macedonia,MKD,2009,0.01
+800,Malta,MLT,2000,0
+801,Malta,MLT,2001,0
+802,Malta,MLT,2002,0
+803,Malta,MLT,2003,0
+804,Malta,MLT,2004,0.016
+805,Malta,MLT,2005,0.018
+806,Malta,MLT,2006,0.039
+807,Malta,MLT,2007,0.02
+808,Malta,MLT,2008,0.01
+809,Malta,MLT,2009,0.02
+810,Montenegro,MNE,2000,--
+811,Montenegro,MNE,2001,--
+812,Montenegro,MNE,2002,--
+813,Montenegro,MNE,2003,--
+814,Montenegro,MNE,2004,--
+815,Montenegro,MNE,2005,0
+816,Montenegro,MNE,2006,0
+817,Montenegro,MNE,2007,0
+818,Montenegro,MNE,2008,0
+819,Montenegro,MNE,2009,0
+820,Netherlands,NLD,2000,0
+821,Netherlands,NLD,2001,0
+822,Netherlands,NLD,2002,0.07
+823,Netherlands,NLD,2003,0.07
+824,Netherlands,NLD,2004,0.05
+825,Netherlands,NLD,2005,1.09
+826,Netherlands,NLD,2006,7.8
+827,Netherlands,NLD,2007,7.57
+828,Netherlands,NLD,2008,9.8
+829,Netherlands,NLD,2009,6.6
+830,Norway,NOR,2000,0
+831,Norway,NOR,2001,0
+832,Norway,NOR,2002,0
+833,Norway,NOR,2003,0.1
+834,Norway,NOR,2004,0.1
+835,Norway,NOR,2005,0.1
+836,Norway,NOR,2006,0.68
+837,Norway,NOR,2007,1.88
+838,Norway,NOR,2008,2.2
+839,Norway,NOR,2009,2.7
+840,Poland,POL,2000,0
+841,Poland,POL,2001,0
+842,Poland,POL,2002,1
+843,Poland,POL,2003,0.5
+844,Poland,POL,2004,1.3
+845,Poland,POL,2005,2.6
+846,Poland,POL,2006,2.5
+847,Poland,POL,2007,11
+848,Poland,POL,2008,13
+849,Poland,POL,2009,18
+850,Portugal,PRT,2000,0
+851,Portugal,PRT,2001,0
+852,Portugal,PRT,2002,0
+853,Portugal,PRT,2003,0
+854,Portugal,PRT,2004,0.003
+855,Portugal,PRT,2005,1.6
+856,Portugal,PRT,2006,3
+857,Portugal,PRT,2007,2.8
+858,Portugal,PRT,2008,5
+859,Portugal,PRT,2009,7
+860,Romania,ROU,2000,0
+861,Romania,ROU,2001,0
+862,Romania,ROU,2002,0
+863,Romania,ROU,2003,0
+864,Romania,ROU,2004,0
+865,Romania,ROU,2005,0.5
+866,Romania,ROU,2006,0.9
+867,Romania,ROU,2007,2.6
+868,Romania,ROU,2008,4.7
+869,Romania,ROU,2009,5.5
+870,Serbia,SRB,2000,--
+871,Serbia,SRB,2001,--
+872,Serbia,SRB,2002,--
+873,Serbia,SRB,2003,--
+874,Serbia,SRB,2004,--
+875,Serbia,SRB,2005,0
+876,Serbia,SRB,2006,0.5
+877,Serbia,SRB,2007,1
+878,Serbia,SRB,2008,1.5
+879,Serbia,SRB,2009,1.5
+880,Slovakia,SVK,2000,0.6
+881,Slovakia,SVK,2001,0.1
+882,Slovakia,SVK,2002,0.04
+883,Slovakia,SVK,2003,0.02
+884,Slovakia,SVK,2004,0.2
+885,Slovakia,SVK,2005,0.94
+886,Slovakia,SVK,2006,2
+887,Slovakia,SVK,2007,3.1
+888,Slovakia,SVK,2008,3.7
+889,Slovakia,SVK,2009,4
+890,Slovenia,SVN,2000,0
+891,Slovenia,SVN,2001,0
+892,Slovenia,SVN,2002,0
+893,Slovenia,SVN,2003,0
+894,Slovenia,SVN,2004,0.11
+895,Slovenia,SVN,2005,0.096
+896,Slovenia,SVN,2006,0.31
+897,Slovenia,SVN,2007,0.57
+898,Slovenia,SVN,2008,0.68
+899,Slovenia,SVN,2009,1
+900,Spain,ESP,2000,1.6
+901,Spain,ESP,2001,3.5
+902,Spain,ESP,2002,5
+903,Spain,ESP,2003,5.2
+904,Spain,ESP,2004,7.2
+905,Spain,ESP,2005,5.2
+906,Spain,ESP,2006,9.9
+907,Spain,ESP,2007,15
+908,Spain,ESP,2008,25
+909,Spain,ESP,2009,34
+910,Sweden,SWE,2000,0.46
+911,Sweden,SWE,2001,1.06
+912,Sweden,SWE,2002,2.18
+913,Sweden,SWE,2003,4.2
+914,Sweden,SWE,2004,4.5
+915,Sweden,SWE,2005,6.5
+916,Sweden,SWE,2006,8.4
+917,Sweden,SWE,2007,10.1
+918,Sweden,SWE,2008,10
+919,Sweden,SWE,2009,11
+920,Switzerland,CHE,2000,0
+921,Switzerland,CHE,2001,0
+922,Switzerland,CHE,2002,0
+923,Switzerland,CHE,2003,0.1
+924,Switzerland,CHE,2004,0.12
+925,Switzerland,CHE,2005,0.22
+926,Switzerland,CHE,2006,0.26
+927,Switzerland,CHE,2007,0.26
+928,Switzerland,CHE,2008,0.13
+929,Switzerland,CHE,2009,0.25
+930,Turkey,TUR,2000,0
+931,Turkey,TUR,2001,0
+932,Turkey,TUR,2002,0
+933,Turkey,TUR,2003,0
+934,Turkey,TUR,2004,0.5
+935,Turkey,TUR,2005,1.1
+936,Turkey,TUR,2006,1
+937,Turkey,TUR,2007,1.1
+938,Turkey,TUR,2008,0.7
+939,Turkey,TUR,2009,0.7
+940,United Kingdom,GBR,2000,0
+941,United Kingdom,GBR,2001,0.06
+942,United Kingdom,GBR,2002,0.3
+943,United Kingdom,GBR,2003,0.4
+944,United Kingdom,GBR,2004,2.1
+945,United Kingdom,GBR,2005,4.5
+946,United Kingdom,GBR,2006,8.6
+947,United Kingdom,GBR,2007,18.8
+948,United Kingdom,GBR,2008,23.5
+949,United Kingdom,GBR,2009,29
+950,Eurasia,,2000,0
+951,Eurasia,,2001,0
+952,Eurasia,,2002,0
+953,Eurasia,,2003,0.02
+954,Eurasia,,2004,0.235
+955,Eurasia,,2005,0.594
+956,Eurasia,,2006,1.3914
+957,Eurasia,,2007,1.8886
+958,Eurasia,,2008,1.98
+959,Eurasia,,2009,2.6
+960,Armenia,ARM,2000,0
+961,Armenia,ARM,2001,0
+962,Armenia,ARM,2002,0
+963,Armenia,ARM,2003,0
+964,Armenia,ARM,2004,0
+965,Armenia,ARM,2005,0
+966,Armenia,ARM,2006,0
+967,Armenia,ARM,2007,0
+968,Armenia,ARM,2008,0
+969,Armenia,ARM,2009,0
+970,Azerbaijan,AZE,2000,0
+971,Azerbaijan,AZE,2001,0
+972,Azerbaijan,AZE,2002,0
+973,Azerbaijan,AZE,2003,0
+974,Azerbaijan,AZE,2004,0
+975,Azerbaijan,AZE,2005,0
+976,Azerbaijan,AZE,2006,0
+977,Azerbaijan,AZE,2007,0
+978,Azerbaijan,AZE,2008,0
+979,Azerbaijan,AZE,2009,0
+980,Belarus,BLR,2000,0
+981,Belarus,BLR,2001,0
+982,Belarus,BLR,2002,0
+983,Belarus,BLR,2003,0
+984,Belarus,BLR,2004,0
+985,Belarus,BLR,2005,0
+986,Belarus,BLR,2006,0
+987,Belarus,BLR,2007,0.2
+988,Belarus,BLR,2008,0.5
+989,Belarus,BLR,2009,0.7
+990,Estonia,EST,2000,0
+991,Estonia,EST,2001,0
+992,Estonia,EST,2002,0
+993,Estonia,EST,2003,0
+994,Estonia,EST,2004,0
+995,Estonia,EST,2005,0.014
+996,Estonia,EST,2006,0.0114
+997,Estonia,EST,2007,0.108
+998,Estonia,EST,2008,0
+999,Estonia,EST,2009,0
+1000,Former U.S.S.R.,,2000,--
+1001,Former U.S.S.R.,,2001,--
+1002,Former U.S.S.R.,,2002,--
+1003,Former U.S.S.R.,,2003,--
+1004,Former U.S.S.R.,,2004,--
+1005,Former U.S.S.R.,,2005,--
+1006,Former U.S.S.R.,,2006,--
+1007,Former U.S.S.R.,,2007,--
+1008,Former U.S.S.R.,,2008,--
+1009,Former U.S.S.R.,,2009,--
+1010,Georgia,GEO,2000,0
+1011,Georgia,GEO,2001,0
+1012,Georgia,GEO,2002,0
+1013,Georgia,GEO,2003,0
+1014,Georgia,GEO,2004,0
+1015,Georgia,GEO,2005,0
+1016,Georgia,GEO,2006,0
+1017,Georgia,GEO,2007,0
+1018,Georgia,GEO,2008,0
+1019,Georgia,GEO,2009,0
+1020,Kazakhstan,KAZ,2000,0
+1021,Kazakhstan,KAZ,2001,0
+1022,Kazakhstan,KAZ,2002,0
+1023,Kazakhstan,KAZ,2003,0
+1024,Kazakhstan,KAZ,2004,0
+1025,Kazakhstan,KAZ,2005,0
+1026,Kazakhstan,KAZ,2006,0
+1027,Kazakhstan,KAZ,2007,0
+1028,Kazakhstan,KAZ,2008,0
+1029,Kazakhstan,KAZ,2009,0
+1030,Kyrgyzstan,KGZ,2000,0
+1031,Kyrgyzstan,KGZ,2001,0
+1032,Kyrgyzstan,KGZ,2002,0
+1033,Kyrgyzstan,KGZ,2003,0
+1034,Kyrgyzstan,KGZ,2004,0
+1035,Kyrgyzstan,KGZ,2005,0
+1036,Kyrgyzstan,KGZ,2006,0
+1037,Kyrgyzstan,KGZ,2007,0
+1038,Kyrgyzstan,KGZ,2008,0
+1039,Kyrgyzstan,KGZ,2009,0
+1040,Latvia,LVA,2000,0
+1041,Latvia,LVA,2001,0
+1042,Latvia,LVA,2002,0
+1043,Latvia,LVA,2003,0
+1044,Latvia,LVA,2004,0.115
+1045,Latvia,LVA,2005,0.08
+1046,Latvia,LVA,2006,0.06
+1047,Latvia,LVA,2007,0.0406
+1048,Latvia,LVA,2008,0.18
+1049,Latvia,LVA,2009,0.7
+1050,Lithuania,LTU,2000,0
+1051,Lithuania,LTU,2001,0
+1052,Lithuania,LTU,2002,0
+1053,Lithuania,LTU,2003,0.02
+1054,Lithuania,LTU,2004,0.12
+1055,Lithuania,LTU,2005,0.5
+1056,Lithuania,LTU,2006,1.32
+1057,Lithuania,LTU,2007,1.54
+1058,Lithuania,LTU,2008,1.3
+1059,Lithuania,LTU,2009,1.2
+1060,Moldova,MDA,2000,0
+1061,Moldova,MDA,2001,0
+1062,Moldova,MDA,2002,0
+1063,Moldova,MDA,2003,0
+1064,Moldova,MDA,2004,0
+1065,Moldova,MDA,2005,0
+1066,Moldova,MDA,2006,0
+1067,Moldova,MDA,2007,0
+1068,Moldova,MDA,2008,0
+1069,Moldova,MDA,2009,0
+1070,Russia,RUS,2000,0
+1071,Russia,RUS,2001,0
+1072,Russia,RUS,2002,0
+1073,Russia,RUS,2003,0
+1074,Russia,RUS,2004,0
+1075,Russia,RUS,2005,0
+1076,Russia,RUS,2006,0
+1077,Russia,RUS,2007,0
+1078,Russia,RUS,2008,0
+1079,Russia,RUS,2009,0
+1080,Tajikistan,TJK,2000,0
+1081,Tajikistan,TJK,2001,0
+1082,Tajikistan,TJK,2002,0
+1083,Tajikistan,TJK,2003,0
+1084,Tajikistan,TJK,2004,0
+1085,Tajikistan,TJK,2005,0
+1086,Tajikistan,TJK,2006,0
+1087,Tajikistan,TJK,2007,0
+1088,Tajikistan,TJK,2008,0
+1089,Tajikistan,TJK,2009,0
+1090,Turkmenistan,TKM,2000,0
+1091,Turkmenistan,TKM,2001,0
+1092,Turkmenistan,TKM,2002,0
+1093,Turkmenistan,TKM,2003,0
+1094,Turkmenistan,TKM,2004,0
+1095,Turkmenistan,TKM,2005,0
+1096,Turkmenistan,TKM,2006,0
+1097,Turkmenistan,TKM,2007,0
+1098,Turkmenistan,TKM,2008,0
+1099,Turkmenistan,TKM,2009,0
+1100,Ukraine,UKR,2000,0
+1101,Ukraine,UKR,2001,0
+1102,Ukraine,UKR,2002,0
+1103,Ukraine,UKR,2003,0
+1104,Ukraine,UKR,2004,0
+1105,Ukraine,UKR,2005,0
+1106,Ukraine,UKR,2006,0
+1107,Ukraine,UKR,2007,0
+1108,Ukraine,UKR,2008,0
+1109,Ukraine,UKR,2009,0
+1110,Uzbekistan,UZB,2000,0
+1111,Uzbekistan,UZB,2001,0
+1112,Uzbekistan,UZB,2002,0
+1113,Uzbekistan,UZB,2003,0
+1114,Uzbekistan,UZB,2004,0
+1115,Uzbekistan,UZB,2005,0
+1116,Uzbekistan,UZB,2006,0
+1117,Uzbekistan,UZB,2007,0
+1118,Uzbekistan,UZB,2008,0
+1119,Uzbekistan,UZB,2009,0
+1120,Middle East,,2000,0
+1121,Middle East,,2001,0
+1122,Middle East,,2002,0
+1123,Middle East,,2003,0
+1124,Middle East,,2004,0
+1125,Middle East,,2005,0
+1126,Middle East,,2006,0.1
+1127,Middle East,,2007,0.1
+1128,Middle East,,2008,0.1
+1129,Middle East,,2009,0.1
+1130,Bahrain,BHR,2000,0
+1131,Bahrain,BHR,2001,0
+1132,Bahrain,BHR,2002,0
+1133,Bahrain,BHR,2003,0
+1134,Bahrain,BHR,2004,0
+1135,Bahrain,BHR,2005,0
+1136,Bahrain,BHR,2006,0
+1137,Bahrain,BHR,2007,0
+1138,Bahrain,BHR,2008,0
+1139,Bahrain,BHR,2009,0
+1140,Iran,IRN,2000,0
+1141,Iran,IRN,2001,0
+1142,Iran,IRN,2002,0
+1143,Iran,IRN,2003,0
+1144,Iran,IRN,2004,0
+1145,Iran,IRN,2005,0
+1146,Iran,IRN,2006,0
+1147,Iran,IRN,2007,0
+1148,Iran,IRN,2008,0
+1149,Iran,IRN,2009,0
+1150,Iraq,IRQ,2000,0
+1151,Iraq,IRQ,2001,0
+1152,Iraq,IRQ,2002,0
+1153,Iraq,IRQ,2003,0
+1154,Iraq,IRQ,2004,0
+1155,Iraq,IRQ,2005,0
+1156,Iraq,IRQ,2006,0
+1157,Iraq,IRQ,2007,0
+1158,Iraq,IRQ,2008,0
+1159,Iraq,IRQ,2009,0
+1160,Israel,ISR,2000,0
+1161,Israel,ISR,2001,0
+1162,Israel,ISR,2002,0
+1163,Israel,ISR,2003,0
+1164,Israel,ISR,2004,0
+1165,Israel,ISR,2005,0
+1166,Israel,ISR,2006,0.1
+1167,Israel,ISR,2007,0.1
+1168,Israel,ISR,2008,0.1
+1169,Israel,ISR,2009,0.1
+1170,Jordan,JOR,2000,0
+1171,Jordan,JOR,2001,0
+1172,Jordan,JOR,2002,0
+1173,Jordan,JOR,2003,0
+1174,Jordan,JOR,2004,0
+1175,Jordan,JOR,2005,0
+1176,Jordan,JOR,2006,0
+1177,Jordan,JOR,2007,0
+1178,Jordan,JOR,2008,0
+1179,Jordan,JOR,2009,0
+1180,Kuwait,KWT,2000,0
+1181,Kuwait,KWT,2001,0
+1182,Kuwait,KWT,2002,0
+1183,Kuwait,KWT,2003,0
+1184,Kuwait,KWT,2004,0
+1185,Kuwait,KWT,2005,0
+1186,Kuwait,KWT,2006,0
+1187,Kuwait,KWT,2007,0
+1188,Kuwait,KWT,2008,0
+1189,Kuwait,KWT,2009,0
+1190,Lebanon,LBN,2000,0
+1191,Lebanon,LBN,2001,0
+1192,Lebanon,LBN,2002,0
+1193,Lebanon,LBN,2003,0
+1194,Lebanon,LBN,2004,0
+1195,Lebanon,LBN,2005,0
+1196,Lebanon,LBN,2006,0
+1197,Lebanon,LBN,2007,0
+1198,Lebanon,LBN,2008,0
+1199,Lebanon,LBN,2009,0
+1200,Oman,OMN,2000,0
+1201,Oman,OMN,2001,0
+1202,Oman,OMN,2002,0
+1203,Oman,OMN,2003,0
+1204,Oman,OMN,2004,0
+1205,Oman,OMN,2005,0
+1206,Oman,OMN,2006,0
+1207,Oman,OMN,2007,0
+1208,Oman,OMN,2008,0
+1209,Oman,OMN,2009,0
+1210,Palestine,PSE,2000,0
+1211,Palestine,PSE,2001,0
+1212,Palestine,PSE,2002,0
+1213,Palestine,PSE,2003,0
+1214,Palestine,PSE,2004,0
+1215,Palestine,PSE,2005,0
+1216,Palestine,PSE,2006,0
+1217,Palestine,PSE,2007,0
+1218,Palestine,PSE,2008,0
+1219,Palestine,PSE,2009,0
+1220,Qatar,QAT,2000,0
+1221,Qatar,QAT,2001,0
+1222,Qatar,QAT,2002,0
+1223,Qatar,QAT,2003,0
+1224,Qatar,QAT,2004,0
+1225,Qatar,QAT,2005,0
+1226,Qatar,QAT,2006,0
+1227,Qatar,QAT,2007,0
+1228,Qatar,QAT,2008,0
+1229,Qatar,QAT,2009,0
+1230,Saudi Arabia,SAU,2000,0
+1231,Saudi Arabia,SAU,2001,0
+1232,Saudi Arabia,SAU,2002,0
+1233,Saudi Arabia,SAU,2003,0
+1234,Saudi Arabia,SAU,2004,0
+1235,Saudi Arabia,SAU,2005,0
+1236,Saudi Arabia,SAU,2006,0
+1237,Saudi Arabia,SAU,2007,0
+1238,Saudi Arabia,SAU,2008,0
+1239,Saudi Arabia,SAU,2009,0
+1240,Syria,SYR,2000,0
+1241,Syria,SYR,2001,0
+1242,Syria,SYR,2002,0
+1243,Syria,SYR,2003,0
+1244,Syria,SYR,2004,0
+1245,Syria,SYR,2005,0
+1246,Syria,SYR,2006,0
+1247,Syria,SYR,2007,0
+1248,Syria,SYR,2008,0
+1249,Syria,SYR,2009,0
+1250,United Arab Emirates,ARE,2000,0
+1251,United Arab Emirates,ARE,2001,0
+1252,United Arab Emirates,ARE,2002,0
+1253,United Arab Emirates,ARE,2003,0
+1254,United Arab Emirates,ARE,2004,0
+1255,United Arab Emirates,ARE,2005,0
+1256,United Arab Emirates,ARE,2006,0
+1257,United Arab Emirates,ARE,2007,0
+1258,United Arab Emirates,ARE,2008,0
+1259,United Arab Emirates,ARE,2009,0
+1260,Yemen,YEM,2000,0
+1261,Yemen,YEM,2001,0
+1262,Yemen,YEM,2002,0
+1263,Yemen,YEM,2003,0
+1264,Yemen,YEM,2004,0
+1265,Yemen,YEM,2005,0
+1266,Yemen,YEM,2006,0
+1267,Yemen,YEM,2007,0
+1268,Yemen,YEM,2008,0
+1269,Yemen,YEM,2009,0
+1270,Africa,,2000,0.2
+1271,Africa,,2001,0.2
+1272,Africa,,2002,0.2
+1273,Africa,,2003,0.2
+1274,Africa,,2004,0.1
+1275,Africa,,2005,0.1
+1276,Africa,,2006,0.4
+1277,Africa,,2007,0.635
+1278,Africa,,2008,0.15
+1279,Africa,,2009,0.2
+1280,Algeria,DZA,2000,0
+1281,Algeria,DZA,2001,0
+1282,Algeria,DZA,2002,0
+1283,Algeria,DZA,2003,0
+1284,Algeria,DZA,2004,0
+1285,Algeria,DZA,2005,0
+1286,Algeria,DZA,2006,0
+1287,Algeria,DZA,2007,0
+1288,Algeria,DZA,2008,0
+1289,Algeria,DZA,2009,0
+1290,Angola,AGO,2000,0
+1291,Angola,AGO,2001,0
+1292,Angola,AGO,2002,0
+1293,Angola,AGO,2003,0
+1294,Angola,AGO,2004,0
+1295,Angola,AGO,2005,0
+1296,Angola,AGO,2006,0
+1297,Angola,AGO,2007,0
+1298,Angola,AGO,2008,0
+1299,Angola,AGO,2009,0
+1300,Benin,BEN,2000,0
+1301,Benin,BEN,2001,0
+1302,Benin,BEN,2002,0
+1303,Benin,BEN,2003,0
+1304,Benin,BEN,2004,0
+1305,Benin,BEN,2005,0
+1306,Benin,BEN,2006,0
+1307,Benin,BEN,2007,0
+1308,Benin,BEN,2008,0
+1309,Benin,BEN,2009,0
+1310,Botswana,BWA,2000,0
+1311,Botswana,BWA,2001,0
+1312,Botswana,BWA,2002,0
+1313,Botswana,BWA,2003,0
+1314,Botswana,BWA,2004,0
+1315,Botswana,BWA,2005,0
+1316,Botswana,BWA,2006,0
+1317,Botswana,BWA,2007,0
+1318,Botswana,BWA,2008,0
+1319,Botswana,BWA,2009,0
+1320,Burkina Faso,BFA,2000,0
+1321,Burkina Faso,BFA,2001,0
+1322,Burkina Faso,BFA,2002,0
+1323,Burkina Faso,BFA,2003,0
+1324,Burkina Faso,BFA,2004,0
+1325,Burkina Faso,BFA,2005,0
+1326,Burkina Faso,BFA,2006,0
+1327,Burkina Faso,BFA,2007,0
+1328,Burkina Faso,BFA,2008,0
+1329,Burkina Faso,BFA,2009,0
+1330,Burundi,BDI,2000,0
+1331,Burundi,BDI,2001,0
+1332,Burundi,BDI,2002,0
+1333,Burundi,BDI,2003,0
+1334,Burundi,BDI,2004,0
+1335,Burundi,BDI,2005,0
+1336,Burundi,BDI,2006,0
+1337,Burundi,BDI,2007,0
+1338,Burundi,BDI,2008,0
+1339,Burundi,BDI,2009,0
+1340,Cameroon,CMR,2000,0
+1341,Cameroon,CMR,2001,0
+1342,Cameroon,CMR,2002,0
+1343,Cameroon,CMR,2003,0
+1344,Cameroon,CMR,2004,0
+1345,Cameroon,CMR,2005,0
+1346,Cameroon,CMR,2006,0
+1347,Cameroon,CMR,2007,0
+1348,Cameroon,CMR,2008,0
+1349,Cameroon,CMR,2009,0
+1350,Cape Verde,CPV,2000,0
+1351,Cape Verde,CPV,2001,0
+1352,Cape Verde,CPV,2002,0
+1353,Cape Verde,CPV,2003,0
+1354,Cape Verde,CPV,2004,0
+1355,Cape Verde,CPV,2005,0
+1356,Cape Verde,CPV,2006,0
+1357,Cape Verde,CPV,2007,0
+1358,Cape Verde,CPV,2008,0
+1359,Cape Verde,CPV,2009,0
+1360,Central African Republic,CAF,2000,0
+1361,Central African Republic,CAF,2001,0
+1362,Central African Republic,CAF,2002,0
+1363,Central African Republic,CAF,2003,0
+1364,Central African Republic,CAF,2004,0
+1365,Central African Republic,CAF,2005,0
+1366,Central African Republic,CAF,2006,0
+1367,Central African Republic,CAF,2007,0
+1368,Central African Republic,CAF,2008,0
+1369,Central African Republic,CAF,2009,0
+1370,Chad,TCD,2000,0
+1371,Chad,TCD,2001,0
+1372,Chad,TCD,2002,0
+1373,Chad,TCD,2003,0
+1374,Chad,TCD,2004,0
+1375,Chad,TCD,2005,0
+1376,Chad,TCD,2006,0
+1377,Chad,TCD,2007,0
+1378,Chad,TCD,2008,0
+1379,Chad,TCD,2009,0
+1380,Comoros,COM,2000,0
+1381,Comoros,COM,2001,0
+1382,Comoros,COM,2002,0
+1383,Comoros,COM,2003,0
+1384,Comoros,COM,2004,0
+1385,Comoros,COM,2005,0
+1386,Comoros,COM,2006,0
+1387,Comoros,COM,2007,0
+1388,Comoros,COM,2008,0
+1389,Comoros,COM,2009,0
+1390,Congo (Brazzaville),,2000,0
+1391,Congo (Brazzaville),,2001,0
+1392,Congo (Brazzaville),,2002,0
+1393,Congo (Brazzaville),,2003,0
+1394,Congo (Brazzaville),,2004,0
+1395,Congo (Brazzaville),,2005,0
+1396,Congo (Brazzaville),,2006,0
+1397,Congo (Brazzaville),,2007,0
+1398,Congo (Brazzaville),,2008,0
+1399,Congo (Brazzaville),,2009,0
+1400,Congo (Kinshasa),,2000,0
+1401,Congo (Kinshasa),,2001,0
+1402,Congo (Kinshasa),,2002,0
+1403,Congo (Kinshasa),,2003,0
+1404,Congo (Kinshasa),,2004,0
+1405,Congo (Kinshasa),,2005,0
+1406,Congo (Kinshasa),,2006,0
+1407,Congo (Kinshasa),,2007,0
+1408,Congo (Kinshasa),,2008,0
+1409,Congo (Kinshasa),,2009,0
+1410,Cote dIvoire (IvoryCoast),,2000,0
+1411,Cote dIvoire (IvoryCoast),,2001,0
+1412,Cote dIvoire (IvoryCoast),,2002,0
+1413,Cote dIvoire (IvoryCoast),,2003,0
+1414,Cote dIvoire (IvoryCoast),,2004,0
+1415,Cote dIvoire (IvoryCoast),,2005,0
+1416,Cote dIvoire (IvoryCoast),,2006,0
+1417,Cote dIvoire (IvoryCoast),,2007,0
+1418,Cote dIvoire (IvoryCoast),,2008,0
+1419,Cote dIvoire (IvoryCoast),,2009,0
+1420,Djibouti,DJI,2000,0
+1421,Djibouti,DJI,2001,0
+1422,Djibouti,DJI,2002,0
+1423,Djibouti,DJI,2003,0
+1424,Djibouti,DJI,2004,0
+1425,Djibouti,DJI,2005,0
+1426,Djibouti,DJI,2006,0
+1427,Djibouti,DJI,2007,0
+1428,Djibouti,DJI,2008,0
+1429,Djibouti,DJI,2009,0
+1430,Egypt,EGY,2000,0
+1431,Egypt,EGY,2001,0
+1432,Egypt,EGY,2002,0
+1433,Egypt,EGY,2003,0
+1434,Egypt,EGY,2004,0
+1435,Egypt,EGY,2005,0
+1436,Egypt,EGY,2006,0
+1437,Egypt,EGY,2007,0
+1438,Egypt,EGY,2008,0
+1439,Egypt,EGY,2009,0
+1440,Equatorial Guinea,GNQ,2000,0
+1441,Equatorial Guinea,GNQ,2001,0
+1442,Equatorial Guinea,GNQ,2002,0
+1443,Equatorial Guinea,GNQ,2003,0
+1444,Equatorial Guinea,GNQ,2004,0
+1445,Equatorial Guinea,GNQ,2005,0
+1446,Equatorial Guinea,GNQ,2006,0
+1447,Equatorial Guinea,GNQ,2007,0
+1448,Equatorial Guinea,GNQ,2008,0
+1449,Equatorial Guinea,GNQ,2009,0
+1450,Eritrea,ERI,2000,0
+1451,Eritrea,ERI,2001,0
+1452,Eritrea,ERI,2002,0
+1453,Eritrea,ERI,2003,0
+1454,Eritrea,ERI,2004,0
+1455,Eritrea,ERI,2005,0
+1456,Eritrea,ERI,2006,0
+1457,Eritrea,ERI,2007,0
+1458,Eritrea,ERI,2008,0
+1459,Eritrea,ERI,2009,0
+1460,Ethiopia,ETH,2000,0
+1461,Ethiopia,ETH,2001,0
+1462,Ethiopia,ETH,2002,0
+1463,Ethiopia,ETH,2003,0
+1464,Ethiopia,ETH,2004,0
+1465,Ethiopia,ETH,2005,0
+1466,Ethiopia,ETH,2006,0
+1467,Ethiopia,ETH,2007,0.03
+1468,Ethiopia,ETH,2008,0.03
+1469,Ethiopia,ETH,2009,0.05
+1470,Gabon,GAB,2000,0
+1471,Gabon,GAB,2001,0
+1472,Gabon,GAB,2002,0
+1473,Gabon,GAB,2003,0
+1474,Gabon,GAB,2004,0
+1475,Gabon,GAB,2005,0
+1476,Gabon,GAB,2006,0
+1477,Gabon,GAB,2007,0
+1478,Gabon,GAB,2008,0
+1479,Gabon,GAB,2009,0
+1480,Gambia,GMB,2000,0
+1481,Gambia,GMB,2001,0
+1482,Gambia,GMB,2002,0
+1483,Gambia,GMB,2003,0
+1484,Gambia,GMB,2004,0
+1485,Gambia,GMB,2005,0
+1486,Gambia,GMB,2006,0
+1487,Gambia,GMB,2007,0
+1488,Gambia,GMB,2008,0
+1489,Gambia,GMB,2009,0
+1490,Ghana,GHA,2000,0
+1491,Ghana,GHA,2001,0
+1492,Ghana,GHA,2002,0
+1493,Ghana,GHA,2003,0
+1494,Ghana,GHA,2004,0
+1495,Ghana,GHA,2005,0
+1496,Ghana,GHA,2006,0
+1497,Ghana,GHA,2007,0
+1498,Ghana,GHA,2008,0
+1499,Ghana,GHA,2009,0
+1500,Guinea,GIN,2000,0
+1501,Guinea,GIN,2001,0
+1502,Guinea,GIN,2002,0
+1503,Guinea,GIN,2003,0
+1504,Guinea,GIN,2004,0
+1505,Guinea,GIN,2005,0
+1506,Guinea,GIN,2006,0
+1507,Guinea,GIN,2007,0
+1508,Guinea,GIN,2008,0
+1509,Guinea,GIN,2009,0
+1510,Guinea-Bissau,GNB,2000,0
+1511,Guinea-Bissau,GNB,2001,0
+1512,Guinea-Bissau,GNB,2002,0
+1513,Guinea-Bissau,GNB,2003,0
+1514,Guinea-Bissau,GNB,2004,0
+1515,Guinea-Bissau,GNB,2005,0
+1516,Guinea-Bissau,GNB,2006,0
+1517,Guinea-Bissau,GNB,2007,0
+1518,Guinea-Bissau,GNB,2008,0
+1519,Guinea-Bissau,GNB,2009,0
+1520,Kenya,KEN,2000,0
+1521,Kenya,KEN,2001,0
+1522,Kenya,KEN,2002,0
+1523,Kenya,KEN,2003,0
+1524,Kenya,KEN,2004,0
+1525,Kenya,KEN,2005,0
+1526,Kenya,KEN,2006,0
+1527,Kenya,KEN,2007,0
+1528,Kenya,KEN,2008,0
+1529,Kenya,KEN,2009,0
+1530,Lesotho,LSO,2000,0
+1531,Lesotho,LSO,2001,0
+1532,Lesotho,LSO,2002,0
+1533,Lesotho,LSO,2003,0
+1534,Lesotho,LSO,2004,0
+1535,Lesotho,LSO,2005,0
+1536,Lesotho,LSO,2006,0
+1537,Lesotho,LSO,2007,0
+1538,Lesotho,LSO,2008,0
+1539,Lesotho,LSO,2009,0
+1540,Liberia,LBR,2000,0
+1541,Liberia,LBR,2001,0
+1542,Liberia,LBR,2002,0
+1543,Liberia,LBR,2003,0
+1544,Liberia,LBR,2004,0
+1545,Liberia,LBR,2005,0
+1546,Liberia,LBR,2006,0
+1547,Liberia,LBR,2007,0
+1548,Liberia,LBR,2008,0
+1549,Liberia,LBR,2009,0
+1550,Libya,LBY,2000,0
+1551,Libya,LBY,2001,0
+1552,Libya,LBY,2002,0
+1553,Libya,LBY,2003,0
+1554,Libya,LBY,2004,0
+1555,Libya,LBY,2005,0
+1556,Libya,LBY,2006,0
+1557,Libya,LBY,2007,0
+1558,Libya,LBY,2008,0
+1559,Libya,LBY,2009,0
+1560,Madagascar,MDG,2000,0
+1561,Madagascar,MDG,2001,0
+1562,Madagascar,MDG,2002,0
+1563,Madagascar,MDG,2003,0
+1564,Madagascar,MDG,2004,0
+1565,Madagascar,MDG,2005,0
+1566,Madagascar,MDG,2006,0
+1567,Madagascar,MDG,2007,0
+1568,Madagascar,MDG,2008,0
+1569,Madagascar,MDG,2009,0
+1570,Malawi,MWI,2000,0.2
+1571,Malawi,MWI,2001,0.2
+1572,Malawi,MWI,2002,0.2
+1573,Malawi,MWI,2003,0.2
+1574,Malawi,MWI,2004,0.1
+1575,Malawi,MWI,2005,0.1
+1576,Malawi,MWI,2006,0.1
+1577,Malawi,MWI,2007,0.1
+1578,Malawi,MWI,2008,0.1
+1579,Malawi,MWI,2009,0.1
+1580,Mali,MLI,2000,0
+1581,Mali,MLI,2001,0
+1582,Mali,MLI,2002,0
+1583,Mali,MLI,2003,0
+1584,Mali,MLI,2004,0
+1585,Mali,MLI,2005,0
+1586,Mali,MLI,2006,0
+1587,Mali,MLI,2007,0
+1588,Mali,MLI,2008,0
+1589,Mali,MLI,2009,0
+1590,Mauritania,MRT,2000,0
+1591,Mauritania,MRT,2001,0
+1592,Mauritania,MRT,2002,0
+1593,Mauritania,MRT,2003,0
+1594,Mauritania,MRT,2004,0
+1595,Mauritania,MRT,2005,0
+1596,Mauritania,MRT,2006,0
+1597,Mauritania,MRT,2007,0
+1598,Mauritania,MRT,2008,0
+1599,Mauritania,MRT,2009,0
+1600,Mauritius,MUS,2000,0
+1601,Mauritius,MUS,2001,0
+1602,Mauritius,MUS,2002,0
+1603,Mauritius,MUS,2003,0
+1604,Mauritius,MUS,2004,0
+1605,Mauritius,MUS,2005,0
+1606,Mauritius,MUS,2006,0
+1607,Mauritius,MUS,2007,0
+1608,Mauritius,MUS,2008,0
+1609,Mauritius,MUS,2009,0
+1610,Morocco,MAR,2000,0
+1611,Morocco,MAR,2001,0
+1612,Morocco,MAR,2002,0
+1613,Morocco,MAR,2003,0
+1614,Morocco,MAR,2004,0
+1615,Morocco,MAR,2005,0
+1616,Morocco,MAR,2006,0
+1617,Morocco,MAR,2007,0
+1618,Morocco,MAR,2008,0
+1619,Morocco,MAR,2009,0
+1620,Mozambique,MOZ,2000,0
+1621,Mozambique,MOZ,2001,0
+1622,Mozambique,MOZ,2002,0
+1623,Mozambique,MOZ,2003,0
+1624,Mozambique,MOZ,2004,0
+1625,Mozambique,MOZ,2005,0
+1626,Mozambique,MOZ,2006,0
+1627,Mozambique,MOZ,2007,0
+1628,Mozambique,MOZ,2008,0
+1629,Mozambique,MOZ,2009,0
+1630,Namibia,NAM,2000,0
+1631,Namibia,NAM,2001,0
+1632,Namibia,NAM,2002,0
+1633,Namibia,NAM,2003,0
+1634,Namibia,NAM,2004,0
+1635,Namibia,NAM,2005,0
+1636,Namibia,NAM,2006,0
+1637,Namibia,NAM,2007,0
+1638,Namibia,NAM,2008,0
+1639,Namibia,NAM,2009,0
+1640,Niger,NER,2000,0
+1641,Niger,NER,2001,0
+1642,Niger,NER,2002,0
+1643,Niger,NER,2003,0
+1644,Niger,NER,2004,0
+1645,Niger,NER,2005,0
+1646,Niger,NER,2006,0
+1647,Niger,NER,2007,0
+1648,Niger,NER,2008,0
+1649,Niger,NER,2009,0
+1650,Nigeria,NGA,2000,0
+1651,Nigeria,NGA,2001,0
+1652,Nigeria,NGA,2002,0
+1653,Nigeria,NGA,2003,0
+1654,Nigeria,NGA,2004,0
+1655,Nigeria,NGA,2005,0
+1656,Nigeria,NGA,2006,0.3
+1657,Nigeria,NGA,2007,0.5
+1658,Nigeria,NGA,2008,0
+1659,Nigeria,NGA,2009,0
+1660,Reunion,REU,2000,0
+1661,Reunion,REU,2001,0
+1662,Reunion,REU,2002,0
+1663,Reunion,REU,2003,0
+1664,Reunion,REU,2004,0
+1665,Reunion,REU,2005,0
+1666,Reunion,REU,2006,0
+1667,Reunion,REU,2007,0
+1668,Reunion,REU,2008,0
+1669,Reunion,REU,2009,0
+1670,Rwanda,RWA,2000,0
+1671,Rwanda,RWA,2001,0
+1672,Rwanda,RWA,2002,0
+1673,Rwanda,RWA,2003,0
+1674,Rwanda,RWA,2004,0
+1675,Rwanda,RWA,2005,0
+1676,Rwanda,RWA,2006,0
+1677,Rwanda,RWA,2007,0
+1678,Rwanda,RWA,2008,0
+1679,Rwanda,RWA,2009,0.01
+1680,Saint Helena,SHN,2000,0
+1681,Saint Helena,SHN,2001,0
+1682,Saint Helena,SHN,2002,0
+1683,Saint Helena,SHN,2003,0
+1684,Saint Helena,SHN,2004,0
+1685,Saint Helena,SHN,2005,0
+1686,Saint Helena,SHN,2006,0
+1687,Saint Helena,SHN,2007,0
+1688,Saint Helena,SHN,2008,0
+1689,Saint Helena,SHN,2009,0
+1690,Sao Tome and Principe,STP,2000,0
+1691,Sao Tome and Principe,STP,2001,0
+1692,Sao Tome and Principe,STP,2002,0
+1693,Sao Tome and Principe,STP,2003,0
+1694,Sao Tome and Principe,STP,2004,0
+1695,Sao Tome and Principe,STP,2005,0
+1696,Sao Tome and Principe,STP,2006,0
+1697,Sao Tome and Principe,STP,2007,0
+1698,Sao Tome and Principe,STP,2008,0
+1699,Sao Tome and Principe,STP,2009,0
+1700,Senegal,SEN,2000,0
+1701,Senegal,SEN,2001,0
+1702,Senegal,SEN,2002,0
+1703,Senegal,SEN,2003,0
+1704,Senegal,SEN,2004,0
+1705,Senegal,SEN,2005,0
+1706,Senegal,SEN,2006,0
+1707,Senegal,SEN,2007,0
+1708,Senegal,SEN,2008,0
+1709,Senegal,SEN,2009,0
+1710,Seychelles,SYC,2000,0
+1711,Seychelles,SYC,2001,0
+1712,Seychelles,SYC,2002,0
+1713,Seychelles,SYC,2003,0
+1714,Seychelles,SYC,2004,0
+1715,Seychelles,SYC,2005,0
+1716,Seychelles,SYC,2006,0
+1717,Seychelles,SYC,2007,0
+1718,Seychelles,SYC,2008,0
+1719,Seychelles,SYC,2009,0
+1720,Sierra Leone,SLE,2000,0
+1721,Sierra Leone,SLE,2001,0
+1722,Sierra Leone,SLE,2002,0
+1723,Sierra Leone,SLE,2003,0
+1724,Sierra Leone,SLE,2004,0
+1725,Sierra Leone,SLE,2005,0
+1726,Sierra Leone,SLE,2006,0
+1727,Sierra Leone,SLE,2007,0
+1728,Sierra Leone,SLE,2008,0
+1729,Sierra Leone,SLE,2009,0
+1730,Somalia,SOM,2000,0
+1731,Somalia,SOM,2001,0
+1732,Somalia,SOM,2002,0
+1733,Somalia,SOM,2003,0
+1734,Somalia,SOM,2004,0
+1735,Somalia,SOM,2005,0
+1736,Somalia,SOM,2006,0
+1737,Somalia,SOM,2007,0
+1738,Somalia,SOM,2008,0
+1739,Somalia,SOM,2009,0
+1740,South Africa,ZAF,2000,0
+1741,South Africa,ZAF,2001,0
+1742,South Africa,ZAF,2002,0
+1743,South Africa,ZAF,2003,0
+1744,South Africa,ZAF,2004,0
+1745,South Africa,ZAF,2005,0
+1746,South Africa,ZAF,2006,0
+1747,South Africa,ZAF,2007,0.005
+1748,South Africa,ZAF,2008,0.01
+1749,South Africa,ZAF,2009,0.03
+1750,Sudan,SDN,2000,0
+1751,Sudan,SDN,2001,0
+1752,Sudan,SDN,2002,0
+1753,Sudan,SDN,2003,0
+1754,Sudan,SDN,2004,0
+1755,Sudan,SDN,2005,0
+1756,Sudan,SDN,2006,0
+1757,Sudan,SDN,2007,0
+1758,Sudan,SDN,2008,0
+1759,Sudan,SDN,2009,0
+1760,Swaziland,SWZ,2000,0
+1761,Swaziland,SWZ,2001,0
+1762,Swaziland,SWZ,2002,0
+1763,Swaziland,SWZ,2003,0
+1764,Swaziland,SWZ,2004,0
+1765,Swaziland,SWZ,2005,0
+1766,Swaziland,SWZ,2006,0
+1767,Swaziland,SWZ,2007,0
+1768,Swaziland,SWZ,2008,0
+1769,Swaziland,SWZ,2009,0
+1770,Tanzania,TZA,2000,0
+1771,Tanzania,TZA,2001,0
+1772,Tanzania,TZA,2002,0
+1773,Tanzania,TZA,2003,0
+1774,Tanzania,TZA,2004,0
+1775,Tanzania,TZA,2005,0
+1776,Tanzania,TZA,2006,0
+1777,Tanzania,TZA,2007,0
+1778,Tanzania,TZA,2008,0.01
+1779,Tanzania,TZA,2009,0.01
+1780,Togo,TGO,2000,0
+1781,Togo,TGO,2001,0
+1782,Togo,TGO,2002,0
+1783,Togo,TGO,2003,0
+1784,Togo,TGO,2004,0
+1785,Togo,TGO,2005,0
+1786,Togo,TGO,2006,0
+1787,Togo,TGO,2007,0
+1788,Togo,TGO,2008,0
+1789,Togo,TGO,2009,0
+1790,Tunisia,TUN,2000,0
+1791,Tunisia,TUN,2001,0
+1792,Tunisia,TUN,2002,0
+1793,Tunisia,TUN,2003,0
+1794,Tunisia,TUN,2004,0
+1795,Tunisia,TUN,2005,0
+1796,Tunisia,TUN,2006,0
+1797,Tunisia,TUN,2007,0
+1798,Tunisia,TUN,2008,0
+1799,Tunisia,TUN,2009,0
+1800,Uganda,UGA,2000,0
+1801,Uganda,UGA,2001,0
+1802,Uganda,UGA,2002,0
+1803,Uganda,UGA,2003,0
+1804,Uganda,UGA,2004,0
+1805,Uganda,UGA,2005,0
+1806,Uganda,UGA,2006,0
+1807,Uganda,UGA,2007,0
+1808,Uganda,UGA,2008,0
+1809,Uganda,UGA,2009,0
+1810,Western Sahara,,2000,0
+1811,Western Sahara,,2001,0
+1812,Western Sahara,,2002,0
+1813,Western Sahara,,2003,0
+1814,Western Sahara,,2004,0
+1815,Western Sahara,,2005,0
+1816,Western Sahara,,2006,0
+1817,Western Sahara,,2007,0
+1818,Western Sahara,,2008,0
+1819,Western Sahara,,2009,0
+1820,Zambia,ZMB,2000,0
+1821,Zambia,ZMB,2001,0
+1822,Zambia,ZMB,2002,0
+1823,Zambia,ZMB,2003,0
+1824,Zambia,ZMB,2004,0
+1825,Zambia,ZMB,2005,0
+1826,Zambia,ZMB,2006,0
+1827,Zambia,ZMB,2007,0
+1828,Zambia,ZMB,2008,0
+1829,Zambia,ZMB,2009,0
+1830,Zimbabwe,ZWE,2000,0
+1831,Zimbabwe,ZWE,2001,0
+1832,Zimbabwe,ZWE,2002,0
+1833,Zimbabwe,ZWE,2003,0
+1834,Zimbabwe,ZWE,2004,0
+1835,Zimbabwe,ZWE,2005,0
+1836,Zimbabwe,ZWE,2006,0
+1837,Zimbabwe,ZWE,2007,0
+1838,Zimbabwe,ZWE,2008,0
+1839,Zimbabwe,ZWE,2009,0
+1840,Asia & Oceania,,2000,3.1
+1841,Asia & Oceania,,2001,8.32
+1842,Asia & Oceania,,2002,17.44
+1843,Asia & Oceania,,2003,21.3
+1844,Asia & Oceania,,2004,27.88
+1845,Asia & Oceania,,2005,42.0605
+1846,Asia & Oceania,,2006,45.79
+1847,Asia & Oceania,,2007,68.85
+1848,Asia & Oceania,,2008,83.1501
+1849,Asia & Oceania,,2009,91.9705
+1850,Afghanistan,AFG,2000,0
+1851,Afghanistan,AFG,2001,0
+1852,Afghanistan,AFG,2002,0
+1853,Afghanistan,AFG,2003,0
+1854,Afghanistan,AFG,2004,0
+1855,Afghanistan,AFG,2005,0
+1856,Afghanistan,AFG,2006,0
+1857,Afghanistan,AFG,2007,0
+1858,Afghanistan,AFG,2008,0
+1859,Afghanistan,AFG,2009,0
+1860,American Samoa,,2000,0
+1861,American Samoa,,2001,0
+1862,American Samoa,,2002,0
+1863,American Samoa,,2003,0
+1864,American Samoa,,2004,0
+1865,American Samoa,,2005,0
+1866,American Samoa,,2006,0
+1867,American Samoa,,2007,0
+1868,American Samoa,,2008,0
+1869,American Samoa,,2009,0
+1870,Australia,AUS,2000,0
+1871,Australia,AUS,2001,0
+1872,Australia,AUS,2002,0
+1873,Australia,AUS,2003,0.1
+1874,Australia,AUS,2004,0.7
+1875,Australia,AUS,2005,1.6
+1876,Australia,AUS,2006,2.2
+1877,Australia,AUS,2007,3.5
+1878,Australia,AUS,2008,5.4
+1879,Australia,AUS,2009,8
+1880,Bangladesh,BGD,2000,0
+1881,Bangladesh,BGD,2001,0
+1882,Bangladesh,BGD,2002,0
+1883,Bangladesh,BGD,2003,0
+1884,Bangladesh,BGD,2004,0
+1885,Bangladesh,BGD,2005,0
+1886,Bangladesh,BGD,2006,0
+1887,Bangladesh,BGD,2007,0
+1888,Bangladesh,BGD,2008,0
+1889,Bangladesh,BGD,2009,0
+1890,Bhutan,BTN,2000,0
+1891,Bhutan,BTN,2001,0
+1892,Bhutan,BTN,2002,0
+1893,Bhutan,BTN,2003,0
+1894,Bhutan,BTN,2004,0
+1895,Bhutan,BTN,2005,0
+1896,Bhutan,BTN,2006,0
+1897,Bhutan,BTN,2007,0
+1898,Bhutan,BTN,2008,0
+1899,Bhutan,BTN,2009,0
+1900,Brunei,BRN,2000,0
+1901,Brunei,BRN,2001,0
+1902,Brunei,BRN,2002,0
+1903,Brunei,BRN,2003,0
+1904,Brunei,BRN,2004,0
+1905,Brunei,BRN,2005,0
+1906,Brunei,BRN,2006,0
+1907,Brunei,BRN,2007,0
+1908,Brunei,BRN,2008,0
+1909,Brunei,BRN,2009,0
+1910,Burma (Myanmar),,2000,0
+1911,Burma (Myanmar),,2001,0
+1912,Burma (Myanmar),,2002,0
+1913,Burma (Myanmar),,2003,0
+1914,Burma (Myanmar),,2004,0
+1915,Burma (Myanmar),,2005,0
+1916,Burma (Myanmar),,2006,0
+1917,Burma (Myanmar),,2007,0
+1918,Burma (Myanmar),,2008,0
+1919,Burma (Myanmar),,2009,0
+1920,Cambodia,KHM,2000,0
+1921,Cambodia,KHM,2001,0
+1922,Cambodia,KHM,2002,0
+1923,Cambodia,KHM,2003,0
+1924,Cambodia,KHM,2004,0
+1925,Cambodia,KHM,2005,0
+1926,Cambodia,KHM,2006,0
+1927,Cambodia,KHM,2007,0
+1928,Cambodia,KHM,2008,0.0001
+1929,Cambodia,KHM,2009,0.0005
+1930,China,CHN,2000,0.1
+1931,China,CHN,2001,5.1
+1932,China,CHN,2002,13.9
+1933,China,CHN,2003,17.3
+1934,China,CHN,2004,21.5
+1935,China,CHN,2005,32
+1936,China,CHN,2006,30.7
+1937,China,CHN,2007,39.4
+1938,China,CHN,2008,43
+1939,China,CHN,2009,43
+1940,Cook Islands,COK,2000,0
+1941,Cook Islands,COK,2001,0
+1942,Cook Islands,COK,2002,0
+1943,Cook Islands,COK,2003,0
+1944,Cook Islands,COK,2004,0
+1945,Cook Islands,COK,2005,0
+1946,Cook Islands,COK,2006,0
+1947,Cook Islands,COK,2007,0
+1948,Cook Islands,COK,2008,0
+1949,Cook Islands,COK,2009,0
+1950,Fiji,FJI,2000,0
+1951,Fiji,FJI,2001,0
+1952,Fiji,FJI,2002,0
+1953,Fiji,FJI,2003,0
+1954,Fiji,FJI,2004,0
+1955,Fiji,FJI,2005,0
+1956,Fiji,FJI,2006,0
+1957,Fiji,FJI,2007,0
+1958,Fiji,FJI,2008,0
+1959,Fiji,FJI,2009,0.01
+1960,French Polynesia,PYF,2000,0
+1961,French Polynesia,PYF,2001,0
+1962,French Polynesia,PYF,2002,0
+1963,French Polynesia,PYF,2003,0
+1964,French Polynesia,PYF,2004,0
+1965,French Polynesia,PYF,2005,0
+1966,French Polynesia,PYF,2006,0
+1967,French Polynesia,PYF,2007,0
+1968,French Polynesia,PYF,2008,0
+1969,French Polynesia,PYF,2009,0
+1970,Guam,,2000,0
+1971,Guam,,2001,0
+1972,Guam,,2002,0
+1973,Guam,,2003,0
+1974,Guam,,2004,0
+1975,Guam,,2005,0
+1976,Guam,,2006,0
+1977,Guam,,2007,0
+1978,Guam,,2008,0
+1979,Guam,,2009,0
+1980,Hawaiian Trade Zone,,2000,--
+1981,Hawaiian Trade Zone,,2001,--
+1982,Hawaiian Trade Zone,,2002,--
+1983,Hawaiian Trade Zone,,2003,--
+1984,Hawaiian Trade Zone,,2004,--
+1985,Hawaiian Trade Zone,,2005,--
+1986,Hawaiian Trade Zone,,2006,--
+1987,Hawaiian Trade Zone,,2007,--
+1988,Hawaiian Trade Zone,,2008,--
+1989,Hawaiian Trade Zone,,2009,--
+1990,Hong Kong,HKG,2000,0
+1991,Hong Kong,HKG,2001,0
+1992,Hong Kong,HKG,2002,0
+1993,Hong Kong,HKG,2003,0
+1994,Hong Kong,HKG,2004,0
+1995,Hong Kong,HKG,2005,0
+1996,Hong Kong,HKG,2006,0
+1997,Hong Kong,HKG,2007,0
+1998,Hong Kong,HKG,2008,0
+1999,Hong Kong,HKG,2009,0.1
+2000,India,IND,2000,3
+2001,India,IND,2001,3.2
+2002,India,IND,2002,3.3
+2003,India,IND,2003,3.5
+2004,India,IND,2004,3.9
+2005,India,IND,2005,4.5
+2006,India,IND,2006,4.7
+2007,India,IND,2007,5.2
+2008,India,IND,2008,3
+2009,India,IND,2009,3
+2010,Indonesia,IDN,2000,0
+2011,Indonesia,IDN,2001,0
+2012,Indonesia,IDN,2002,0
+2013,Indonesia,IDN,2003,0
+2014,Indonesia,IDN,2004,0.04
+2015,Indonesia,IDN,2005,0.3
+2016,Indonesia,IDN,2006,0.6
+2017,Indonesia,IDN,2007,1.2
+2018,Indonesia,IDN,2008,2.2
+2019,Indonesia,IDN,2009,4
+2020,Japan,JPN,2000,0
+2021,Japan,JPN,2001,0
+2022,Japan,JPN,2002,0.2
+2023,Japan,JPN,2003,0.2
+2024,Japan,JPN,2004,0.2
+2025,Japan,JPN,2005,0.2005
+2026,Japan,JPN,2006,0.3
+2027,Japan,JPN,2007,0.3
+2028,Japan,JPN,2008,0.7
+2029,Japan,JPN,2009,1.3
+2030,Kiribati,KIR,2000,0
+2031,Kiribati,KIR,2001,0
+2032,Kiribati,KIR,2002,0
+2033,Kiribati,KIR,2003,0
+2034,Kiribati,KIR,2004,0
+2035,Kiribati,KIR,2005,0
+2036,Kiribati,KIR,2006,0
+2037,Kiribati,KIR,2007,0
+2038,Kiribati,KIR,2008,0
+2039,Kiribati,KIR,2009,0
+2040,Korea,,2000,0
+2041,Korea,,2001,0
+2042,Korea,,2002,0
+2043,Korea,,2003,0
+2044,Korea,,2004,0
+2045,Korea,,2005,0
+2046,Korea,,2006,0
+2047,Korea,,2007,0
+2048,Korea,,2008,0
+2049,Korea,,2009,0
+2050,Korea,,2000,0
+2051,Korea,,2001,0
+2052,Korea,,2002,0.02
+2053,Korea,,2003,0.04
+2054,Korea,,2004,0.1
+2055,Korea,,2005,0.2
+2056,Korea,,2006,0.9
+2057,Korea,,2007,1.7
+2058,Korea,,2008,3.2
+2059,Korea,,2009,5
+2060,Laos,LAO,2000,0
+2061,Laos,LAO,2001,0
+2062,Laos,LAO,2002,0
+2063,Laos,LAO,2003,0
+2064,Laos,LAO,2004,0
+2065,Laos,LAO,2005,0
+2066,Laos,LAO,2006,0
+2067,Laos,LAO,2007,0
+2068,Laos,LAO,2008,0
+2069,Laos,LAO,2009,0
+2070,Macau,,2000,0
+2071,Macau,,2001,0
+2072,Macau,,2002,0
+2073,Macau,,2003,0
+2074,Macau,,2004,0
+2075,Macau,,2005,0
+2076,Macau,,2006,0
+2077,Macau,,2007,0
+2078,Macau,,2008,0
+2079,Macau,,2009,0
+2080,Malaysia,MYS,2000,0
+2081,Malaysia,MYS,2001,0
+2082,Malaysia,MYS,2002,0
+2083,Malaysia,MYS,2003,0
+2084,Malaysia,MYS,2004,0
+2085,Malaysia,MYS,2005,0.2
+2086,Malaysia,MYS,2006,0.7
+2087,Malaysia,MYS,2007,0.9
+2088,Malaysia,MYS,2008,0.1
+2089,Malaysia,MYS,2009,0.1
+2090,Maldives,MDV,2000,0
+2091,Maldives,MDV,2001,0
+2092,Maldives,MDV,2002,0
+2093,Maldives,MDV,2003,0
+2094,Maldives,MDV,2004,0
+2095,Maldives,MDV,2005,0
+2096,Maldives,MDV,2006,0
+2097,Maldives,MDV,2007,0
+2098,Maldives,MDV,2008,0
+2099,Maldives,MDV,2009,0
+2100,Mongolia,MNG,2000,0
+2101,Mongolia,MNG,2001,0
+2102,Mongolia,MNG,2002,0
+2103,Mongolia,MNG,2003,0
+2104,Mongolia,MNG,2004,0
+2105,Mongolia,MNG,2005,0
+2106,Mongolia,MNG,2006,0
+2107,Mongolia,MNG,2007,0
+2108,Mongolia,MNG,2008,0
+2109,Mongolia,MNG,2009,0
+2110,Nauru,NRU,2000,0
+2111,Nauru,NRU,2001,0
+2112,Nauru,NRU,2002,0
+2113,Nauru,NRU,2003,0
+2114,Nauru,NRU,2004,0
+2115,Nauru,NRU,2005,0
+2116,Nauru,NRU,2006,0
+2117,Nauru,NRU,2007,0
+2118,Nauru,NRU,2008,0
+2119,Nauru,NRU,2009,0
+2120,Nepal,NPL,2000,0
+2121,Nepal,NPL,2001,0
+2122,Nepal,NPL,2002,0
+2123,Nepal,NPL,2003,0
+2124,Nepal,NPL,2004,0
+2125,Nepal,NPL,2005,0
+2126,Nepal,NPL,2006,0
+2127,Nepal,NPL,2007,0
+2128,Nepal,NPL,2008,0
+2129,Nepal,NPL,2009,0
+2130,New Caledonia,NCL,2000,0
+2131,New Caledonia,NCL,2001,0
+2132,New Caledonia,NCL,2002,0
+2133,New Caledonia,NCL,2003,0
+2134,New Caledonia,NCL,2004,0
+2135,New Caledonia,NCL,2005,0
+2136,New Caledonia,NCL,2006,0
+2137,New Caledonia,NCL,2007,0
+2138,New Caledonia,NCL,2008,0
+2139,New Caledonia,NCL,2009,0
+2140,New Zealand,NZL,2000,0
+2141,New Zealand,NZL,2001,0
+2142,New Zealand,NZL,2002,0
+2143,New Zealand,NZL,2003,0
+2144,New Zealand,NZL,2004,0
+2145,New Zealand,NZL,2005,0
+2146,New Zealand,NZL,2006,0.02
+2147,New Zealand,NZL,2007,0.12
+2148,New Zealand,NZL,2008,0.12
+2149,New Zealand,NZL,2009,0.12
+2150,Niue,NIU,2000,0
+2151,Niue,NIU,2001,0
+2152,Niue,NIU,2002,0
+2153,Niue,NIU,2003,0
+2154,Niue,NIU,2004,0
+2155,Niue,NIU,2005,0
+2156,Niue,NIU,2006,0
+2157,Niue,NIU,2007,0
+2158,Niue,NIU,2008,0
+2159,Niue,NIU,2009,0
+2160,Pakistan,PAK,2000,0
+2161,Pakistan,PAK,2001,0
+2162,Pakistan,PAK,2002,0
+2163,Pakistan,PAK,2003,0
+2164,Pakistan,PAK,2004,0
+2165,Pakistan,PAK,2005,0
+2166,Pakistan,PAK,2006,0
+2167,Pakistan,PAK,2007,0
+2168,Pakistan,PAK,2008,0
+2169,Pakistan,PAK,2009,0.2
+2170,Papua New Guinea,PNG,2000,0
+2171,Papua New Guinea,PNG,2001,0
+2172,Papua New Guinea,PNG,2002,0
+2173,Papua New Guinea,PNG,2003,0
+2174,Papua New Guinea,PNG,2004,0
+2175,Papua New Guinea,PNG,2005,0
+2176,Papua New Guinea,PNG,2006,0
+2177,Papua New Guinea,PNG,2007,0
+2178,Papua New Guinea,PNG,2008,0
+2179,Papua New Guinea,PNG,2009,0
+2180,Philippines,PHL,2000,0
+2181,Philippines,PHL,2001,0
+2182,Philippines,PHL,2002,0
+2183,Philippines,PHL,2003,0
+2184,Philippines,PHL,2004,0.04
+2185,Philippines,PHL,2005,0.06
+2186,Philippines,PHL,2006,0.67
+2187,Philippines,PHL,2007,1.2
+2188,Philippines,PHL,2008,4
+2189,Philippines,PHL,2009,5.4
+2190,Samoa,WSM,2000,0
+2191,Samoa,WSM,2001,0
+2192,Samoa,WSM,2002,0
+2193,Samoa,WSM,2003,0
+2194,Samoa,WSM,2004,0
+2195,Samoa,WSM,2005,0
+2196,Samoa,WSM,2006,0
+2197,Samoa,WSM,2007,0
+2198,Samoa,WSM,2008,0
+2199,Samoa,WSM,2009,0
+2200,Singapore,SGP,2000,0
+2201,Singapore,SGP,2001,0
+2202,Singapore,SGP,2002,0
+2203,Singapore,SGP,2003,0
+2204,Singapore,SGP,2004,0
+2205,Singapore,SGP,2005,0
+2206,Singapore,SGP,2006,0
+2207,Singapore,SGP,2007,0
+2208,Singapore,SGP,2008,0.03
+2209,Singapore,SGP,2009,0.04
+2210,Solomon Islands,SLB,2000,0
+2211,Solomon Islands,SLB,2001,0
+2212,Solomon Islands,SLB,2002,0
+2213,Solomon Islands,SLB,2003,0
+2214,Solomon Islands,SLB,2004,0
+2215,Solomon Islands,SLB,2005,0
+2216,Solomon Islands,SLB,2006,0
+2217,Solomon Islands,SLB,2007,0
+2218,Solomon Islands,SLB,2008,0
+2219,Solomon Islands,SLB,2009,0
+2220,Sri Lanka,LKA,2000,0
+2221,Sri Lanka,LKA,2001,0
+2222,Sri Lanka,LKA,2002,0
+2223,Sri Lanka,LKA,2003,0
+2224,Sri Lanka,LKA,2004,0
+2225,Sri Lanka,LKA,2005,0
+2226,Sri Lanka,LKA,2006,0
+2227,Sri Lanka,LKA,2007,0
+2228,Sri Lanka,LKA,2008,0
+2229,Sri Lanka,LKA,2009,0
+2230,Taiwan,TWN,2000,0
+2231,Taiwan,TWN,2001,0
+2232,Taiwan,TWN,2002,0
+2233,Taiwan,TWN,2003,0
+2234,Taiwan,TWN,2004,0
+2235,Taiwan,TWN,2005,0
+2236,Taiwan,TWN,2006,0.1
+2237,Taiwan,TWN,2007,0.63
+2238,Taiwan,TWN,2008,1.1
+2239,Taiwan,TWN,2009,2.1
+2240,Thailand,THA,2000,0
+2241,Thailand,THA,2001,0
+2242,Thailand,THA,2002,0
+2243,Thailand,THA,2003,0.1
+2244,Thailand,THA,2004,1.3
+2245,Thailand,THA,2005,2.3
+2246,Thailand,THA,2006,4.1
+2247,Thailand,THA,2007,13.2
+2248,Thailand,THA,2008,18.5
+2249,Thailand,THA,2009,18
+2250,Timor-Leste (East Timor),,2000,--
+2251,Timor-Leste (East Timor),,2001,--
+2252,Timor-Leste (East Timor),,2002,0
+2253,Timor-Leste (East Timor),,2003,0
+2254,Timor-Leste (East Timor),,2004,0
+2255,Timor-Leste (East Timor),,2005,0
+2256,Timor-Leste (East Timor),,2006,0
+2257,Timor-Leste (East Timor),,2007,0
+2258,Timor-Leste (East Timor),,2008,0
+2259,Timor-Leste (East Timor),,2009,0
+2260,Tonga,TON,2000,0
+2261,Tonga,TON,2001,0
+2262,Tonga,TON,2002,0
+2263,Tonga,TON,2003,0
+2264,Tonga,TON,2004,0
+2265,Tonga,TON,2005,0
+2266,Tonga,TON,2006,0
+2267,Tonga,TON,2007,0
+2268,Tonga,TON,2008,0
+2269,Tonga,TON,2009,0
+2270,U.S. Pacific Islands,,2000,0
+2271,U.S. Pacific Islands,,2001,0
+2272,U.S. Pacific Islands,,2002,0
+2273,U.S. Pacific Islands,,2003,0
+2274,U.S. Pacific Islands,,2004,0
+2275,U.S. Pacific Islands,,2005,0
+2276,U.S. Pacific Islands,,2006,0
+2277,U.S. Pacific Islands,,2007,0
+2278,U.S. Pacific Islands,,2008,0
+2279,U.S. Pacific Islands,,2009,0
+2280,Vanuatu,VUT,2000,0
+2281,Vanuatu,VUT,2001,0
+2282,Vanuatu,VUT,2002,0
+2283,Vanuatu,VUT,2003,0
+2284,Vanuatu,VUT,2004,0
+2285,Vanuatu,VUT,2005,0
+2286,Vanuatu,VUT,2006,0
+2287,Vanuatu,VUT,2007,0
+2288,Vanuatu,VUT,2008,0
+2289,Vanuatu,VUT,2009,0
+2290,Vietnam,VNM,2000,0
+2291,Vietnam,VNM,2001,0
+2292,Vietnam,VNM,2002,0
+2293,Vietnam,VNM,2003,0
+2294,Vietnam,VNM,2004,0
+2295,Vietnam,VNM,2005,0
+2296,Vietnam,VNM,2006,0
+2297,Vietnam,VNM,2007,0
+2298,Vietnam,VNM,2008,0
+2299,Vietnam,VNM,2009,0.1
+2300,Wake Island,,2000,0
+2301,Wake Island,,2001,0
+2302,Wake Island,,2002,0
+2303,Wake Island,,2003,0
+2304,Wake Island,,2004,0
+2305,Wake Island,,2005,0
+2306,Wake Island,,2006,0
+2307,Wake Island,,2007,0
+2308,Wake Island,,2008,0
+2309,Wake Island,,2009,0
+2310,World,OWID_WRL,2000,283.33417
+2311,World,OWID_WRL,2001,336.45277
+2312,World,OWID_WRL,2002,387.06853
+2313,World,OWID_WRL,2003,485.73674
+2314,World,OWID_WRL,2004,561.78785
+2315,World,OWID_WRL,2005,747.398
+2316,World,OWID_WRL,2006,990.90265
+2317,World,OWID_WRL,2007,1350.30501
+2318,World,OWID_WRL,2008,1584.49737
+2319,World,OWID_WRL,2009,1768.27536
