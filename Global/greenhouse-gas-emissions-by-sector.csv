@@ -1,4 +1,4 @@
-,Entity,Code,Year,Other sources (tonnes),Waste (tonnes),Industry (tonnes),Residential & commercial (tonnes),Transport (tonnes),Agriculture (tonnes),Forestry (tonnes),Land use sources (tonnes),Energy (tonnes)
+,Entity,Code,Year,Other sources,Waste,Industry,Residential & commercial,Transport,Agriculture,Forestry,Land use sources,Energy
 13727,World,OWID_WRL,1990,245984281.2,1174162886.4,1841272528.3,3793912777.3,4034907302.8,4572738230.9,1822872957.8,6587142015.8,15000412740.3
 13728,World,OWID_WRL,1991,265327757.8,1183725542.9,1841626053.2,3784250101.9,4076790571.1,4551383387.7,1822878309.7,6599264156.8,14960812029.4
 13729,World,OWID_WRL,1992,283411560.7,1194041609.3,1869619156.7,3568996623.4,4147299287.5,4529690669.099999,1822851398.3,6619455065.6,14963849236.2
